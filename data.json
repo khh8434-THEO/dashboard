@@ -1,72 +1,78 @@
 {
-  "updatedAt": "2026-05-28T09:36:47.772Z",
+  "updatedAt": "2026-05-28T09:49:56.170Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.05.28 17:50",
-    "period": null,
+    "period": "5월 1일 ~ 27일",
     "todayRevenue": 56750000,
     "monthRevenue": 1380000000,
     "ytdRevenue": 9130000000,
+    "monthForecast": 1580000000,
     "top5": [
+      {
+        "brand": "유트리션",
+        "name": "튼튼 리포좀 비타민C",
+        "dailyRevenue": 23480000,
+        "dailyQty": 1798
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "코랄칼마디 K2",
+        "dailyRevenue": 4460000,
+        "dailyQty": 213
+      },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 7474,
-        "dailyQty": 130000000
-      },
-      {
-        "brand": "유트리션",
-        "name": "마시는 마그네슘 200",
-        "dailyRevenue": 6289,
-        "dailyQty": 80430000
-      },
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스60",
-        "dailyRevenue": 4239,
-        "dailyQty": 84650000
+        "dailyRevenue": 4440000,
+        "dailyQty": 217
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 3642,
-        "dailyQty": 100000000
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 4110000,
+        "dailyQty": 111
       },
       {
-        "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 3061,
-        "dailyQty": 130000000
+        "brand": "파이토알엑스",
+        "name": "이뮨 빌베리",
+        "dailyRevenue": 2920000,
+        "dailyQty": 343
       }
-    ],
-    "debugProductCount": 40
+    ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026-05-11",
-    "latestMonth": null,
-    "achievement": "7%",
-    "period": "2026년 누적",
-    "pbMonthShipment": null,
-    "pbYtdShipment": null,
-    "gbMonth": null,
-    "gbYtd": 34160000000
+    "baseDate": "2026년 5월 28일",
+    "weekLabel": "2026년 22주차",
+    "pbMonthShipment": 1330000000,
+    "pbYtdShipment": 15250000000,
+    "gbMonth": 6080000000,
+    "gbYtd": 34160000000,
+    "targetAchievement": "93.4%",
+    "annualTarget": 75000000000,
+    "annualAchievement": "0.2%",
+    "period": "2026년 누적"
   },
   "stock": {
     "ok": true,
     "urgentOrder": 3,
     "reviewOrder": 4,
-    "expiry6m": null,
+    "inProgress": 20,
+    "expiry6m": 4,
+    "expiry9m": 2,
+    "expiryWithin9m": 2,
     "expiry6to9m": null,
     "expiry9to12m": null,
-    "expiryWithin9m": null
+    "totalAmount": 2630000000,
+    "skuCount": 49
   },
   "voc": {
     "ok": true,
     "total": 6,
     "pending": 1,
     "high": 3,
-    "processingRate": 83,
-    "snippet": "💬 PB 약사님 커뮤니케이션팀 문의현황 대시보드 v1.3 · 2026-05-28 마지막 업데이트: 2026. 5. 28. 오후 6:36:34 · 6건 새로고침 총 문의 6 전체 인입 🔴 높음 우선순위 3 즉시 처리 필요 미처리 1 문의인입 상태 처리율 50% 3 완료 건수 문의 유형별 분포 6 전체 정산·수수료 117% 기타 117% 매출 확인 233% 이벤트 117% 공구 신청·일정 117% 진행 상황 6 전체 완료 35"
+    "completed": 3,
+    "processingRate": 50
   }
 }
