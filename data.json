@@ -1,8 +1,29 @@
 {
-  "updatedAt": null,
-  "note": "이 파일은 매일 오전 8시(KST) GitHub Actions가 자동 갱신합니다. workflow_dispatch로 수동 실행도 가능.",
-  "daily":  { "ok": false, "lastUpdate": null, "period": null },
-  "weekly": { "ok": false, "baseDate": null, "latestMonth": null, "period": null },
-  "stock":  { "ok": false, "urgentOrder": null, "reviewOrder": null, "expiry6m": null, "expiry6to9m": null, "expiry9to12m": null },
-  "voc":    { "ok": false, "total": null, "pending": null }
+  "updatedAt": "2026-05-28T09:08:54.224Z",
+  "daily": {
+    "ok": true,
+    "lastUpdate": "2026.05.28 17:50",
+    "period": null
+  },
+  "weekly": {
+    "ok": true,
+    "baseDate": "2026-05-11",
+    "latestMonth": null,
+    "achievement": "7%",
+    "period": "2026년 누적"
+  },
+  "stock": {
+    "ok": true,
+    "urgentOrder": 3,
+    "reviewOrder": 4,
+    "expiry6m": null,
+    "expiry6to9m": null,
+    "expiry9to12m": null
+  },
+  "voc": {
+    "ok": true,
+    "total": 6,
+    "pending": null,
+    "snippet": "💬 PB 약사님 커뮤니케이션팀 문의현황 대시보드 v1.3 · 2026-05-28 마지막 업데이트: 2026. 5. 28. 오후 6:08:41 · 6건 새로고침 총 문의 6 전체 인입 🔴 높음 우선순위 3 즉시 처리 필요 미처리 1 문의인입 상태 처리율 50% 3 완료 건수 문의 유형별 분포 6 전체 정산·수수료 117"
+  }
 }
