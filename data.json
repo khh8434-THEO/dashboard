@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-05-29T00:27:56.809Z",
+  "updatedAt": "2026-05-29T09:10:58.880Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.05.28 17:50",
-    "period": "5월 1일 ~ 27일",
-    "todayRevenue": 56750000,
-    "monthRevenue": 1380000000,
-    "ytdRevenue": 9130000000,
-    "monthForecast": 1580000000,
+    "lastUpdate": "2026.05.29 15:49",
+    "period": "5월 1일 ~ 29일",
+    "todayRevenue": 170000000,
+    "monthRevenue": 1580000000,
+    "ytdRevenue": 9330000000,
+    "monthForecast": 1690000000,
     "top5": [
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스60",
+        "dailyRevenue": 85540000,
+        "dailyQty": 3677
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 슈퍼플러스100",
+        "dailyRevenue": 45450000,
+        "dailyQty": 1485
+      },
       {
         "brand": "유트리션",
         "name": "튼튼 리포좀 비타민C",
-        "dailyRevenue": 23480000,
-        "dailyQty": 1798
+        "dailyRevenue": 7060000,
+        "dailyQty": 543
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "코랄칼마디 K2",
-        "dailyRevenue": 4460000,
-        "dailyQty": 213
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 4440000,
-        "dailyQty": 217
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 3350000,
+        "dailyQty": 77
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 4110000,
-        "dailyQty": 111
-      },
-      {
-        "brand": "파이토알엑스",
-        "name": "이뮨 빌베리",
-        "dailyRevenue": 2920000,
-        "dailyQty": 343
+        "dailyRevenue": 3240000,
+        "dailyQty": 81
       }
     ]
   },
@@ -56,23 +56,23 @@
   },
   "stock": {
     "ok": true,
-    "urgentOrder": 3,
-    "reviewOrder": 4,
-    "inProgress": 20,
+    "urgentOrder": 4,
+    "reviewOrder": 2,
+    "inProgress": 21,
     "expiry6m": 4,
     "expiry9m": 2,
     "expiryWithin9m": 2,
     "expiry6to9m": null,
     "expiry9to12m": null,
-    "totalAmount": 2630000000,
+    "totalAmount": 2660000000,
     "skuCount": 49
   },
   "voc": {
     "ok": true,
-    "total": 6,
+    "total": 11,
     "pending": 1,
-    "high": 3,
-    "completed": 3,
-    "processingRate": 50
+    "high": 5,
+    "completed": 8,
+    "processingRate": 73
   }
 }
