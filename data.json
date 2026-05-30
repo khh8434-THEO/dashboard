@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T13:20:33.863Z",
+  "updatedAt": "2026-05-30T15:03:50.449Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.05.29 15:49",
@@ -60,8 +60,8 @@
     "reviewOrder": 2,
     "inProgress": 21,
     "expiry6m": 4,
-    "expiry9m": 2,
-    "expiryWithin9m": 2,
+    "expiry9m": 3,
+    "expiryWithin9m": 3,
     "expiry6to9m": null,
     "expiry9to12m": null,
     "totalAmount": 2970000000,
