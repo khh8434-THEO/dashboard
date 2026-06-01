@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-01T05:59:18.174Z",
+  "updatedAt": "2026-06-01T11:45:57.205Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.05.29 15:49",
-    "period": "5월 1일 ~ 29일",
-    "todayRevenue": 170000000,
-    "monthRevenue": 1580000000,
-    "ytdRevenue": 9330000000,
-    "monthForecast": 1690000000,
+    "lastUpdate": "2026.06.01 17:51",
+    "period": "5월 1일 ~ 31일",
+    "todayRevenue": 67410000,
+    "monthRevenue": 1760000000,
+    "ytdRevenue": 9510000000,
+    "monthForecast": 1760000000,
     "top5": [
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스60",
-        "dailyRevenue": 85540000,
-        "dailyQty": 3677
+        "dailyRevenue": 31300000,
+        "dailyQty": 1324
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 슈퍼플러스100",
-        "dailyRevenue": 45450000,
-        "dailyQty": 1485
+        "dailyRevenue": 15570000,
+        "dailyQty": 513
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "코랄칼마디 K2",
+        "dailyRevenue": 4390000,
+        "dailyQty": 208
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 2570000,
+        "dailyQty": 119
       },
       {
         "brand": "유트리션",
         "name": "튼튼 리포좀 비타민C",
-        "dailyRevenue": 7060000,
-        "dailyQty": 543
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 3350000,
-        "dailyQty": 77
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 3240000,
-        "dailyQty": 81
+        "dailyRevenue": 2020000,
+        "dailyQty": 151
       }
     ]
   },
@@ -56,7 +56,7 @@
   },
   "stock": {
     "ok": true,
-    "urgentOrder": 4,
+    "urgentOrder": 5,
     "reviewOrder": 2,
     "inProgress": 21,
     "expiry6m": 4,
@@ -64,7 +64,7 @@
     "expiryWithin9m": 3,
     "expiry6to9m": null,
     "expiry9to12m": null,
-    "totalAmount": 2970000000,
+    "totalAmount": 2890000000,
     "skuCount": 49
   },
   "voc": {
