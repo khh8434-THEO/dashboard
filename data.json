@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T23:25:24.287Z",
+  "updatedAt": "2026-06-02T03:33:38.627Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.06.01 17:51",
@@ -56,9 +56,9 @@
   },
   "stock": {
     "ok": true,
-    "urgentOrder": 5,
-    "reviewOrder": 2,
-    "inProgress": 21,
+    "urgentOrder": 7,
+    "reviewOrder": 5,
+    "inProgress": 14,
     "expiry6m": 4,
     "expiry9m": 3,
     "expiryWithin9m": 3,
@@ -69,10 +69,10 @@
   },
   "voc": {
     "ok": true,
-    "total": 9,
+    "total": 12,
     "pending": 0,
     "high": 3,
-    "completed": 9,
+    "completed": 12,
     "processingRate": 100
   }
 }
