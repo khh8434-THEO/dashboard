@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-02T08:25:40.508Z",
+  "updatedAt": "2026-06-02T12:38:58.138Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.01 17:51",
-    "period": "5월 1일 ~ 31일",
-    "todayRevenue": 67410000,
-    "monthRevenue": 1760000000,
-    "ytdRevenue": 9510000000,
-    "monthForecast": 1760000000,
+    "lastUpdate": "2026.06.02 18:20",
+    "period": "6월 1일 ~ 1일",
+    "todayRevenue": 130000000,
+    "monthRevenue": 130000000,
+    "ytdRevenue": 9640000000,
+    "monthForecast": 3990000000,
     "top5": [
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스60",
-        "dailyRevenue": 31300000,
-        "dailyQty": 1324
+        "dailyRevenue": 36180000,
+        "dailyQty": 2270
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 슈퍼플러스100",
-        "dailyRevenue": 15570000,
-        "dailyQty": 513
+        "dailyRevenue": 21870000,
+        "dailyQty": 717
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "코랄칼마디 K2",
-        "dailyRevenue": 4390000,
-        "dailyQty": 208
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 17440000,
+        "dailyQty": 479
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 14050000,
+        "dailyQty": 549
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 2570000,
-        "dailyQty": 119
-      },
-      {
-        "brand": "유트리션",
-        "name": "튼튼 리포좀 비타민C",
-        "dailyRevenue": 2020000,
-        "dailyQty": 151
+        "dailyRevenue": 9990000,
+        "dailyQty": 514
       }
     ]
   },
@@ -57,7 +57,7 @@
   "stock": {
     "ok": true,
     "urgentOrder": 6,
-    "reviewOrder": 5,
+    "reviewOrder": 6,
     "inProgress": 14,
     "expiry6m": 4,
     "expiry9m": 3,
