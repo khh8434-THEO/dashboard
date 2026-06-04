@@ -10,6 +10,7 @@
     --text: #1a1f2e; --text-muted: #5b6473;
     --accent: #2f6feb; --accent-dark: #1e4fb8;
     --daily: #3b82f6; --weekly: #8b5cf6; --voc: #10b981; --stock: #f59e0b;
+    --marketing: #ec4899;
     --danger: #ef4444; --warn: #d97706; --good: #10b981;
     --shadow: 0 1px 3px rgba(16,24,40,.06), 0 1px 2px rgba(16,24,40,.04);
     --shadow-hover: 0 10px 25px rgba(16,24,40,.1), 0 4px 10px rgba(16,24,40,.06);
@@ -51,10 +52,11 @@
   .tab-btn:hover { color: var(--text); }
   .tab-btn.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
   .tab-btn .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
-  .tab-btn[data-tab="daily"]  .dot { background: var(--daily); }
-  .tab-btn[data-tab="weekly"] .dot { background: var(--weekly); }
-  .tab-btn[data-tab="voc"]    .dot { background: var(--voc); }
-  .tab-btn[data-tab="stock"]  .dot { background: var(--stock); }
+  .tab-btn[data-tab="daily"]      .dot { background: var(--daily); }
+  .tab-btn[data-tab="weekly"]     .dot { background: var(--weekly); }
+  .tab-btn[data-tab="voc"]        .dot { background: var(--voc); }
+  .tab-btn[data-tab="stock"]      .dot { background: var(--stock); }
+  .tab-btn[data-tab="marketing"]  .dot { background: var(--marketing); }
   main { flex: 1; min-height: 0; display: flex; flex-direction: column; }
   .panel { display: none; flex: 1; min-height: 0; }
   .panel.active { display: flex; flex-direction: column; }
@@ -73,10 +75,11 @@
   .card-clickable { cursor: pointer; }
   .card-head { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
   .card-icon { width: 40px; height: 40px; border-radius: 10px; display: grid; place-items: center; font-size: 20px; color: #fff; flex-shrink: 0; }
-  .card[data-target="daily"]  .card-icon { background: var(--daily); }
-  .card[data-target="weekly"] .card-icon { background: var(--weekly); }
-  .card[data-target="voc"]    .card-icon { background: var(--voc); }
-  .card[data-target="stock"]  .card-icon { background: var(--stock); }
+  .card[data-target="daily"]      .card-icon { background: var(--daily); }
+  .card[data-target="weekly"]     .card-icon { background: var(--weekly); }
+  .card[data-target="voc"]        .card-icon { background: var(--voc); }
+  .card[data-target="stock"]      .card-icon { background: var(--stock); }
+  .card[data-target="marketing"]  .card-icon { background: var(--marketing); }
   .card-title { font-size: 15px; font-weight: 700; line-height: 1.3; }
   .card-period { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
   .card-desc { font-size: 12px; color: var(--text-muted); line-height: 1.55; margin: 0 0 14px; }
@@ -108,15 +111,9 @@
     display: flex; flex-direction: column; gap: 4px;
   }
   .top-products li {
-    display: grid;
-    grid-template-columns: 22px 1fr auto auto;
-    gap: 8px;
-    font-size: 12px;
-    background: #f8fafc;
-    padding: 6px 10px;
-    border-radius: 6px;
-    border: 1px solid var(--border);
-    align-items: center;
+    display: grid; grid-template-columns: 22px 1fr auto auto; gap: 8px;
+    font-size: 12px; background: #f8fafc; padding: 6px 10px;
+    border-radius: 6px; border: 1px solid var(--border); align-items: center;
   }
   .top-products li.placeholder { color: var(--text-muted); font-style: italic; grid-template-columns: 1fr; text-align: center; }
   .top-products .rank { font-weight: 700; color: var(--daily); }
@@ -127,10 +124,11 @@
 
   .chip-row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
   .chip { font-size: 11px; padding: 4px 10px; border-radius: 999px; background: #eef2f7; color: #475569; }
-  .card[data-target="daily"]  .chip { background: #e0ecff; color: #1e40af; }
-  .card[data-target="weekly"] .chip { background: #ede9fe; color: #5b21b6; }
-  .card[data-target="voc"]    .chip { background: #d1fae5; color: #065f46; }
-  .card[data-target="stock"]  .chip { background: #fef3c7; color: #92400e; }
+  .card[data-target="daily"]      .chip { background: #e0ecff; color: #1e40af; }
+  .card[data-target="weekly"]     .chip { background: #ede9fe; color: #5b21b6; }
+  .card[data-target="voc"]        .chip { background: #d1fae5; color: #065f46; }
+  .card[data-target="stock"]      .chip { background: #fef3c7; color: #92400e; }
+  .card[data-target="marketing"]  .chip { background: #fce7f3; color: #9d174d; }
   .card-foot { margin-top: auto; display: flex; justify-content: space-between; align-items: center; }
   .open-btn {
     background: var(--accent); color: #fff;
@@ -138,6 +136,7 @@
     font-size: 13px; font-weight: 600;
     padding: 8px 14px; cursor: pointer;
     transition: background .15s; font-family: inherit;
+    text-decoration: none; display: inline-block;
   }
   .open-btn:hover { background: var(--accent-dark); }
   .ext-link { font-size: 11px; color: var(--text-muted); text-decoration: none; }
@@ -149,6 +148,38 @@
   }
   .status-tag.ok { background: #d1fae5; color: #065f46; }
   .status-tag.err { background: #fee2e2; color: #991b1b; }
+  .status-tag.info { background: #fce7f3; color: #9d174d; }
+
+  /* External-only panel (marketing) */
+  .external-panel {
+    flex: 1; min-height: 0;
+    display: flex; align-items: center; justify-content: center;
+    padding: 40px 20px; background: #fafbfc;
+  }
+  .external-card {
+    max-width: 480px; text-align: center;
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 16px; padding: 32px 28px;
+    box-shadow: var(--shadow);
+  }
+  .external-card .big-icon {
+    width: 64px; height: 64px; border-radius: 16px;
+    background: var(--marketing); color: #fff;
+    display: grid; place-items: center; margin: 0 auto 18px;
+    font-size: 30px;
+  }
+  .external-card h3 { margin: 0 0 8px; font-size: 18px; }
+  .external-card p { margin: 0 0 18px; color: var(--text-muted); font-size: 13px; line-height: 1.6; }
+  .external-card .open-btn-large {
+    background: var(--marketing); color: #fff;
+    padding: 12px 24px; font-size: 14px; font-weight: 600;
+    border-radius: 10px; text-decoration: none; display: inline-flex;
+    align-items: center; gap: 8px;
+  }
+  .external-card .open-btn-large:hover { filter: brightness(0.95); }
+  .external-card .small-note {
+    font-size: 11px; color: var(--text-muted); margin-top: 14px;
+  }
 
   .iframe-wrap { flex: 1; min-height: 0; display: flex; flex-direction: column; background: #fff; }
   .iframe-bar {
@@ -179,7 +210,7 @@
       <div class="brand-logo">📊</div>
       <div class="brand-text">
         <h1>미래사업본부 통합 대시보드</h1>
-        <p>일간 실적 · 주간 Sync · 재고 관리 · 약사 VOC</p>
+        <p>일간 실적 · 주간 Sync · 재고 관리 · 약사 VOC · 마케팅</p>
       </div>
     </div>
     <div class="header-meta"><span class="badge" id="data-updated-at">데이터 동기화 중…</span></div>
@@ -187,11 +218,12 @@
 </header>
 
 <nav class="tabs" role="tablist">
-  <button class="tab-btn active" data-tab="home"  role="tab">🏠 메인</button>
-  <button class="tab-btn" data-tab="daily"  role="tab"><span class="dot"></span>일간 실적</button>
-  <button class="tab-btn" data-tab="weekly" role="tab"><span class="dot"></span>주간 Sync</button>
-  <button class="tab-btn" data-tab="stock"  role="tab"><span class="dot"></span>재고 관리</button>
-  <button class="tab-btn" data-tab="voc"    role="tab"><span class="dot"></span>약사 VOC</button>
+  <button class="tab-btn active" data-tab="home"      role="tab">🏠 메인</button>
+  <button class="tab-btn" data-tab="daily"     role="tab"><span class="dot"></span>일간 실적</button>
+  <button class="tab-btn" data-tab="weekly"    role="tab"><span class="dot"></span>주간 Sync</button>
+  <button class="tab-btn" data-tab="stock"     role="tab"><span class="dot"></span>재고 관리</button>
+  <button class="tab-btn" data-tab="voc"       role="tab"><span class="dot"></span>약사 VOC</button>
+  <button class="tab-btn" data-tab="marketing" role="tab"><span class="dot"></span>마케팅</button>
 </nav>
 
 <main>
@@ -285,6 +317,26 @@
           </div>
         </div>
 
+        <!-- Marketing card -->
+        <div class="card card-clickable" data-target="marketing" role="button" tabindex="0">
+          <span class="status-tag info" data-status="marketing">Google 인증 필요</span>
+          <div class="card-head"><div class="card-icon">📣</div><div>
+            <div class="card-title">마케팅 대시보드</div>
+            <div class="card-period">Google Apps Script · 사내 인증 전용</div>
+          </div></div>
+          <p class="card-desc">파마브로스 마케팅 채널 성과 트래킹. <b>외부 사이트 임베드가 차단되어</b>(X-Frame-Options) 새 창으로 열립니다.</p>
+          <div class="metric-row metric-row-3">
+            <div class="metric"><div class="metric-label">접근 방식</div><div class="metric-value" style="font-size:13px;">새 창 (Google 로그인)</div></div>
+            <div class="metric"><div class="metric-label">계정 도메인</div><div class="metric-value" style="font-size:13px;">@pharma-bros.com</div></div>
+            <div class="metric"><div class="metric-label">실시간 동기화</div><div class="metric-value" style="font-size:13px;">Apps Script 자체</div></div>
+          </div>
+          <div class="chip-row"><span class="chip">광고 채널</span><span class="chip">전환·CTR</span><span class="chip">캠페인 성과</span><span class="chip">예산 집행</span></div>
+          <div class="card-foot">
+            <a class="open-btn" href="https://script.google.com/a/macros/pharma-bros.com/s/AKfycbzJsMyN7luYROqscsMeQB_KZK-UW-TffhY2knsoS55PDLsMkFtejNgyBKSCvQKYxW84/exec" target="_blank" rel="noopener" style="background: var(--marketing);">대시보드 열기 ↗</a>
+            <a class="ext-link" href="https://script.google.com/a/macros/pharma-bros.com/s/AKfycbzJsMyN7luYROqscsMeQB_KZK-UW-TffhY2knsoS55PDLsMkFtejNgyBKSCvQKYxW84/exec" target="_blank" rel="noopener">새 창에서</a>
+          </div>
+        </div>
+
       </div>
     </div>
   </section>
@@ -305,12 +357,29 @@
     <div class="iframe-bar"><div>💬 <b>약사 문의 현황 대시보드</b></div><div class="actions"><a href="#" data-go="home">← 메인으로</a><a href="https://pharmacy-voc-dashboard.vercel.app/" target="_blank" rel="noopener">원본 새 창 ↗</a></div></div>
     <iframe class="dash-frame" data-src="https://pharmacy-voc-dashboard.vercel.app/" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div></section>
+  <section class="panel" id="panel-marketing">
+    <div class="iframe-bar"><div>📣 <b>마케팅 대시보드</b></div><div class="actions"><a href="#" data-go="home">← 메인으로</a></div></div>
+    <div class="external-panel">
+      <div class="external-card">
+        <div class="big-icon">📣</div>
+        <h3>마케팅 대시보드는 새 창에서 열립니다</h3>
+        <p>
+          이 대시보드는 Google Apps Script 기반이라 보안 정책상(<code>X-Frame-Options: DENY</code>) 이 페이지 안에 임베드할 수 없습니다.
+          <br />또한 <b>@pharma-bros.com Google 계정 로그인</b>이 필요합니다.
+        </p>
+        <a class="open-btn-large" href="https://script.google.com/a/macros/pharma-bros.com/s/AKfycbzJsMyN7luYROqscsMeQB_KZK-UW-TffhY2knsoS55PDLsMkFtejNgyBKSCvQKYxW84/exec" target="_blank" rel="noopener">
+          🚀 마케팅 대시보드 열기
+        </a>
+        <div class="small-note">새 창에서 Google 로그인 후 자동으로 열립니다.</div>
+      </div>
+    </div>
+  </section>
 </main>
 
 <script>
   const tabs = document.querySelectorAll('.tab-btn');
   const panels = document.querySelectorAll('.panel');
-  const validTabs = ['home','daily','weekly','stock','voc'];
+  const validTabs = ['home','daily','weekly','stock','voc','marketing'];
   function setTab(name) {
     if (!validTabs.includes(name)) name = 'home';
     tabs.forEach(t => t.classList.toggle('active', t.dataset.tab === name));
@@ -329,7 +398,7 @@
   });
   document.querySelectorAll('.card-clickable').forEach(el => {
     el.addEventListener('click', e => {
-      if (e.target.closest('.ext-link') || e.target.closest('button')) return;
+      if (e.target.closest('.ext-link') || e.target.closest('button') || e.target.closest('a.open-btn')) return;
       if (el.dataset.target) setTab(el.dataset.target);
     });
     el.addEventListener('keypress', e => { if ((e.key === 'Enter' || e.key === ' ') && el.dataset.target) { e.preventDefault(); setTab(el.dataset.target); } });
@@ -434,7 +503,6 @@
         if (v) { el.textContent = '2026년 누적 · 기준일 ' + v; el.classList.remove('placeholder'); }
         else { el.textContent = '2026년 누적 · 기준일 —'; }
       } else if (path === 'daily.lastUpdate' && el.tagName === 'B') {
-        // 카드 설명문 안의 인라인 표시
         if (v) { el.textContent = v; el.classList.remove('placeholder'); }
         else { el.textContent = '—'; }
       } else {
