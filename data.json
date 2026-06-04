@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T23:04:01.159Z",
+  "updatedAt": "2026-06-04T03:36:06.638Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.06.02 18:20",
@@ -43,12 +43,12 @@
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 5월 28일",
-    "weekLabel": "2026년 22주차",
-    "pbMonthShipment": 1330000000,
+    "baseDate": "2026년 6월 3일",
+    "weekLabel": "2026년 23주차",
+    "pbMonthShipment": 134000000,
     "pbYtdShipment": 15250000000,
-    "gbMonth": 6080000000,
-    "gbYtd": 34160000000,
+    "gbMonth": 650000000,
+    "gbYtd": 35830000000,
     "targetAchievement": "93.4%",
     "annualTarget": 75000000000,
     "annualAchievement": "0.2%",
@@ -56,8 +56,8 @@
   },
   "stock": {
     "ok": true,
-    "urgentOrder": 6,
-    "reviewOrder": 6,
+    "urgentOrder": 5,
+    "reviewOrder": 5,
     "inProgress": 14,
     "expiry6m": 5,
     "expiry9m": 2,
@@ -69,10 +69,10 @@
   },
   "voc": {
     "ok": true,
-    "total": 13,
+    "total": 15,
     "pending": 0,
-    "high": 4,
-    "completed": 13,
+    "high": 5,
+    "completed": 15,
     "processingRate": 100
   }
 }
