@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-04T08:17:49.458Z",
+  "updatedAt": "2026-06-04T11:49:37.131Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.02 18:20",
-    "period": "6월 1일 ~ 1일",
-    "todayRevenue": 130000000,
-    "monthRevenue": 130000000,
-    "ytdRevenue": 9640000000,
-    "monthForecast": 3990000000,
+    "lastUpdate": "2026.06.04 17:46",
+    "period": "6월 1일 ~ 4일",
+    "todayRevenue": 76130000,
+    "monthRevenue": 340000000,
+    "ytdRevenue": 9850000000,
+    "monthForecast": 2580000000,
     "top5": [
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스60",
-        "dailyRevenue": 36180000,
-        "dailyQty": 2270
+        "dailyRevenue": 31030000,
+        "dailyQty": 1357
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 슈퍼플러스100",
-        "dailyRevenue": 21870000,
-        "dailyQty": 717
+        "dailyRevenue": 13480000,
+        "dailyQty": 441
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 17440000,
-        "dailyQty": 479
+        "dailyRevenue": 5120000,
+        "dailyQty": 128
       },
       {
         "brand": "YDY뉴트리션",
         "name": "액티브비큐텐",
-        "dailyRevenue": 14050000,
-        "dailyQty": 549
+        "dailyRevenue": 4860000,
+        "dailyQty": 173
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 9990000,
-        "dailyQty": 514
+        "dailyRevenue": 4580000,
+        "dailyQty": 235
       }
     ]
   },
@@ -56,8 +56,8 @@
   },
   "stock": {
     "ok": true,
-    "urgentOrder": 6,
-    "reviewOrder": 5,
+    "urgentOrder": 5,
+    "reviewOrder": 1,
     "inProgress": 14,
     "expiry6m": 5,
     "expiry9m": 2,
