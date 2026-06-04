@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T14:50:22.398Z",
+  "updatedAt": "2026-06-04T17:43:25.675Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.06.04 17:46",
@@ -56,7 +56,7 @@
   },
   "stock": {
     "ok": true,
-    "urgentOrder": 5,
+    "urgentOrder": 4,
     "reviewOrder": 1,
     "inProgress": 14,
     "expiry6m": 5,
