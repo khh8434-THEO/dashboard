@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-08T03:34:00.460Z",
+  "updatedAt": "2026-06-08T08:50:44.079Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.05 18:42",
-    "period": "6월 1일 ~ 4일",
-    "todayRevenue": 68770000,
-    "monthRevenue": 370000000,
-    "ytdRevenue": 9880000000,
-    "monthForecast": 2810000000,
+    "lastUpdate": "2026.06.08 17:45",
+    "period": "6월 1일 ~ 7일",
+    "todayRevenue": 36550000,
+    "monthRevenue": 510000000,
+    "ytdRevenue": 10020000000,
+    "monthForecast": 2200000000,
     "top5": [
       {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스60",
-        "dailyRevenue": 15130000,
-        "dailyQty": 660
-      },
-      {
-        "brand": "파이토알엑스",
-        "name": "트리플 빌베리",
-        "dailyRevenue": 7410000,
-        "dailyQty": 303
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 5360000,
+        "dailyQty": 205
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 6940000,
-        "dailyQty": 182
+        "dailyRevenue": 3800000,
+        "dailyQty": 93
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 5200000,
-        "dailyQty": 181
+        "name": "유한 YDY 혈당케어 여주",
+        "dailyRevenue": 3430000,
+        "dailyQty": 73
       },
       {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 슈퍼플러스100",
-        "dailyRevenue": 4290000,
-        "dailyQty": 143
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 3200000,
+        "dailyQty": 160
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 부스터 100",
+        "dailyRevenue": 2800000,
+        "dailyQty": 69
       }
     ]
   },
@@ -64,7 +64,7 @@
     "expiryWithin9m": 0,
     "expiry6to9m": null,
     "expiry9to12m": null,
-    "totalAmount": 2870000000,
+    "totalAmount": 2820000000,
     "skuCount": 49
   },
   "voc": {
