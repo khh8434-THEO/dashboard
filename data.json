@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T00:09:39.481Z",
+  "updatedAt": "2026-06-10T05:14:11.259Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.06.09 15:39",
@@ -56,12 +56,12 @@
   },
   "stock": {
     "ok": true,
-    "urgentOrder": 1,
+    "urgentOrder": 4,
     "reviewOrder": 0,
-    "inProgress": 13,
-    "expiry6m": 0,
-    "expiry9m": 0,
-    "expiryWithin9m": 0,
+    "inProgress": 11,
+    "expiry6m": 5,
+    "expiry9m": 2,
+    "expiryWithin9m": 2,
     "expiry6to9m": null,
     "expiry9to12m": null,
     "totalAmount": 2790000000,
@@ -70,9 +70,9 @@
   "voc": {
     "ok": true,
     "total": 17,
-    "pending": 1,
+    "pending": 0,
     "high": 5,
-    "completed": 16,
-    "processingRate": 94
+    "completed": 17,
+    "processingRate": 100
   }
 }
