@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-11T08:41:53.379Z",
+  "updatedAt": "2026-06-11T12:41:56.442Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.10 16:03",
+    "lastUpdate": "2026.06.11 18:16",
     "period": "6월 1일 ~ 10일",
-    "todayRevenue": 49800000,
-    "monthRevenue": 620000000,
-    "ytdRevenue": 10130000000,
-    "monthForecast": 1860000000,
+    "todayRevenue": 40150000,
+    "monthRevenue": 650000000,
+    "ytdRevenue": 10160000000,
+    "monthForecast": 1960000000,
     "top5": [
       {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스60",
-        "dailyRevenue": 13230000,
-        "dailyQty": 601
-      },
-      {
         "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3 밸류팩",
-        "dailyRevenue": 4380000,
-        "dailyQty": 131
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 6920000,
+        "dailyQty": 300
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 4170000,
-        "dailyQty": 193
+        "dailyRevenue": 3400000,
+        "dailyQty": 168
+      },
+      {
+        "brand": "한독 네이처셋",
+        "name": "한독 네이처셋 빌베리 엘더베리",
+        "dailyRevenue": 2980000,
+        "dailyQty": 134
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "풀스펙 멀티비타민",
-        "dailyRevenue": 3610000,
-        "dailyQty": 247
+        "name": "액티브비큐텐",
+        "dailyRevenue": 2850000,
+        "dailyQty": 73
       },
       {
-        "brand": "데이타민",
-        "name": "칼마디K2 미네랄",
-        "dailyRevenue": 3080000,
-        "dailyQty": 80
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 2280000,
+        "dailyQty": 47
       }
     ]
   },
