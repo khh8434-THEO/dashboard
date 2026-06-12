@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-12T03:31:25.586Z",
+  "updatedAt": "2026-06-12T08:22:02.900Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.11 18:16",
-    "period": "6월 1일 ~ 10일",
-    "todayRevenue": 40150000,
-    "monthRevenue": 650000000,
-    "ytdRevenue": 10160000000,
-    "monthForecast": 1960000000,
+    "lastUpdate": "2026.06.12 16:36",
+    "period": "6월 1일 ~ 11일",
+    "todayRevenue": 57190000,
+    "monthRevenue": 710000000,
+    "ytdRevenue": 10220000000,
+    "monthForecast": 1940000000,
     "top5": [
       {
-        "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 6920000,
-        "dailyQty": 300
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 3400000,
-        "dailyQty": 168
-      },
-      {
-        "brand": "한독 네이처셋",
-        "name": "한독 네이처셋 빌베리 엘더베리",
-        "dailyRevenue": 2980000,
-        "dailyQty": 134
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 2850000,
-        "dailyQty": 73
+        "brand": "유트리션",
+        "name": "마시는 마그네슘 200",
+        "dailyRevenue": 21100000,
+        "dailyQty": 1702
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 2280000,
-        "dailyQty": 47
+        "dailyRevenue": 6000000,
+        "dailyQty": 202
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "퓨어 리포좀 글루타치온",
+        "dailyRevenue": 5770000,
+        "dailyQty": 232
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 3720000,
+        "dailyQty": 179
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 2560000,
+        "dailyQty": 72
       }
     ]
   },
@@ -64,15 +64,15 @@
     "expiryWithin9m": 2,
     "expiry6to9m": null,
     "expiry9to12m": null,
-    "totalAmount": 2810000000,
+    "totalAmount": 2790000000,
     "skuCount": 49
   },
   "voc": {
     "ok": true,
-    "total": 22,
+    "total": 23,
     "pending": 0,
     "high": 5,
-    "completed": 20,
+    "completed": 21,
     "processingRate": 91
   }
 }
