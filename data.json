@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-16T06:31:52.781Z",
+  "updatedAt": "2026-06-16T12:10:35.156Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.15 16:48",
-    "period": "6월 1일 ~ 14일",
-    "todayRevenue": 46050000,
-    "monthRevenue": 840000000,
-    "ytdRevenue": 10350000000,
-    "monthForecast": 1800000000,
+    "lastUpdate": "2026.06.16 16:22",
+    "period": "6월 1일 ~ 15일",
+    "todayRevenue": 72730000,
+    "monthRevenue": 910000000,
+    "ytdRevenue": 10420000000,
+    "monthForecast": 1830000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 14760000,
-        "dailyQty": 335
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 18670000,
+        "dailyQty": 1419
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 4720000,
-        "dailyQty": 218
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 11070000,
+        "dailyQty": 246
+      },
+      {
+        "brand": "데이타민",
+        "name": "초임계 알티지 오메가3 1000",
+        "dailyRevenue": 8690000,
+        "dailyQty": 516
       },
       {
         "brand": "유트리션",
         "name": "마시는 마그네슘 200",
-        "dailyRevenue": 4560000,
-        "dailyQty": 354
+        "dailyRevenue": 4880000,
+        "dailyQty": 368
       },
       {
-        "brand": "데이타민",
-        "name": "칼마디K2 미네랄",
-        "dailyRevenue": 3470000,
-        "dailyQty": 89
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "썬 비타민D3 & K2",
-        "dailyRevenue": 2640000,
-        "dailyQty": 140
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스60",
+        "dailyRevenue": 4290000,
+        "dailyQty": 183
       }
     ]
   },
