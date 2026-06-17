@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T12:55:28.353Z",
+  "updatedAt": "2026-06-17T16:37:13.231Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.06.17 17:06",
@@ -60,8 +60,8 @@
     "reviewOrder": 0,
     "inProgress": 13,
     "expiry6m": 5,
-    "expiry9m": 2,
-    "expiryWithin9m": 2,
+    "expiry9m": 3,
+    "expiryWithin9m": 3,
     "expiry6to9m": null,
     "expiry9to12m": null,
     "totalAmount": 2760000000,
@@ -69,10 +69,10 @@
   },
   "voc": {
     "ok": true,
-    "total": 25,
+    "total": 29,
     "pending": 0,
-    "high": 5,
-    "completed": 23,
-    "processingRate": 92
+    "high": 9,
+    "completed": 26,
+    "processingRate": 90
   }
 }
