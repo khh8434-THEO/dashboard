@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-06-17T03:38:32.387Z",
+  "updatedAt": "2026-06-17T08:59:38.555Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.16 16:22",
-    "period": "6월 1일 ~ 15일",
-    "todayRevenue": 72730000,
-    "monthRevenue": 910000000,
-    "ytdRevenue": 10420000000,
-    "monthForecast": 1830000000,
+    "lastUpdate": "2026.06.17 17:06",
+    "period": "6월 1일 ~ 16일",
+    "todayRevenue": 51720000,
+    "monthRevenue": 970000000,
+    "ytdRevenue": 10480000000,
+    "monthForecast": 1810000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 18670000,
-        "dailyQty": 1419
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 8230000,
+        "dailyQty": 194
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 11070000,
-        "dailyQty": 246
-      },
-      {
-        "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 8690000,
-        "dailyQty": 516
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 5610000,
+        "dailyQty": 168
       },
       {
         "brand": "유트리션",
         "name": "마시는 마그네슘 200",
-        "dailyRevenue": 4880000,
-        "dailyQty": 368
+        "dailyRevenue": 4850000,
+        "dailyQty": 382
       },
       {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스60",
-        "dailyRevenue": 4290000,
-        "dailyQty": 183
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 4440000,
+        "dailyQty": 219
+      },
+      {
+        "brand": "데이타민",
+        "name": "초임계 알티지 오메가3 1000",
+        "dailyRevenue": 4050000,
+        "dailyQty": 239
       }
     ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 6월 10일",
-    "weekLabel": "2026년 24주차",
-    "pbMonthShipment": 629000000,
+    "baseDate": "2026년 6월 17일",
+    "weekLabel": "2026년 25주차",
+    "pbMonthShipment": 980000000,
     "pbYtdShipment": 15250000000,
-    "gbMonth": 2390000000,
-    "gbYtd": 37570000000,
+    "gbMonth": 3920000000,
+    "gbYtd": 39100000000,
     "targetAchievement": "93.4%",
     "annualTarget": 75000000000,
     "annualAchievement": "0.2%",
@@ -64,7 +64,7 @@
     "expiryWithin9m": 2,
     "expiry6to9m": null,
     "expiry9to12m": null,
-    "totalAmount": 2780000000,
+    "totalAmount": 2760000000,
     "skuCount": 49
   },
   "voc": {
