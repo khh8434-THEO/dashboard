@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-18T08:41:43.187Z",
+  "updatedAt": "2026-06-18T12:22:09.126Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.17 17:06",
-    "period": "6월 1일 ~ 16일",
-    "todayRevenue": 51720000,
-    "monthRevenue": 970000000,
-    "ytdRevenue": 10480000000,
-    "monthForecast": 1810000000,
+    "lastUpdate": "2026.06.18 17:56",
+    "period": "6월 1일 ~ 18일",
+    "todayRevenue": 58360000,
+    "monthRevenue": 1050000000,
+    "ytdRevenue": 10560000000,
+    "monthForecast": 1750000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
         "name": "피크노제놀 큐텐",
-        "dailyRevenue": 8230000,
-        "dailyQty": 194
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 5610000,
-        "dailyQty": 168
+        "dailyRevenue": 9680000,
+        "dailyQty": 216
       },
       {
         "brand": "유트리션",
         "name": "마시는 마그네슘 200",
-        "dailyRevenue": 4850000,
-        "dailyQty": 382
+        "dailyRevenue": 7830000,
+        "dailyQty": 607
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 프라임 70",
+        "dailyRevenue": 6160000,
+        "dailyQty": 236
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 부스터 100",
+        "dailyRevenue": 5320000,
+        "dailyQty": 134
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 4440000,
-        "dailyQty": 219
-      },
-      {
-        "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 4050000,
-        "dailyQty": 239
+        "dailyRevenue": 3320000,
+        "dailyQty": 159
       }
     ]
   },
