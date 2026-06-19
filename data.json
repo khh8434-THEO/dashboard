@@ -1,45 +1,14 @@
 {
-  "updatedAt": "2026-06-19T00:23:23.688Z",
+  "updatedAt": "2026-06-19T06:13:59.415Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.18 17:56",
-    "period": "6월 1일 ~ 18일",
-    "todayRevenue": 58360000,
-    "monthRevenue": 1050000000,
-    "ytdRevenue": 10560000000,
-    "monthForecast": 1750000000,
-    "top5": [
-      {
-        "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 9680000,
-        "dailyQty": 216
-      },
-      {
-        "brand": "유트리션",
-        "name": "마시는 마그네슘 200",
-        "dailyRevenue": 7830000,
-        "dailyQty": 607
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "테라큐민 프라임 70",
-        "dailyRevenue": 6160000,
-        "dailyQty": 236
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "테라큐민 부스터 100",
-        "dailyRevenue": 5320000,
-        "dailyQty": 134
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 3320000,
-        "dailyQty": 159
-      }
-    ]
+    "lastUpdate": "2026.06.19 13:28",
+    "period": "6월 1일 ~ 17일",
+    "todayRevenue": 0,
+    "monthRevenue": 1020000000,
+    "ytdRevenue": 10530000000,
+    "monthForecast": 1800000000,
+    "top5": []
   },
   "weekly": {
     "ok": true,
@@ -56,15 +25,15 @@
   },
   "stock": {
     "ok": true,
-    "urgentOrder": 4,
+    "urgentOrder": 6,
     "reviewOrder": 0,
-    "inProgress": 13,
+    "inProgress": 11,
     "expiry6m": 5,
     "expiry9m": 3,
     "expiryWithin9m": 3,
     "expiry6to9m": null,
     "expiry9to12m": null,
-    "totalAmount": 2740000000,
+    "totalAmount": 2730000000,
     "skuCount": 49
   },
   "voc": {
