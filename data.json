@@ -1,14 +1,45 @@
 {
-  "updatedAt": "2026-06-22T06:25:41.170Z",
+  "updatedAt": "2026-06-22T12:46:27.259Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.19 13:28",
-    "period": "6월 1일 ~ 17일",
-    "todayRevenue": 0,
-    "monthRevenue": 1020000000,
-    "ytdRevenue": 10530000000,
-    "monthForecast": 1800000000,
-    "top5": []
+    "lastUpdate": "2026.06.22 18:29",
+    "period": "6월 1일 ~ 21일",
+    "todayRevenue": 32030000,
+    "monthRevenue": 1140000000,
+    "ytdRevenue": 10650000000,
+    "monthForecast": 1630000000,
+    "top5": [
+      {
+        "brand": "유트리션",
+        "name": "와일드 알래스카 오메가3 미니 1000",
+        "dailyRevenue": 4350000,
+        "dailyQty": 224
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 3960000,
+        "dailyQty": 92
+      },
+      {
+        "brand": "데이타민",
+        "name": "초임계 알티지 오메가3 1000",
+        "dailyRevenue": 3300000,
+        "dailyQty": 198
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 프라임 70",
+        "dailyRevenue": 2740000,
+        "dailyQty": 105
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 2460000,
+        "dailyQty": 117
+      }
+    ]
   },
   "weekly": {
     "ok": true,
@@ -38,10 +69,10 @@
   },
   "voc": {
     "ok": true,
-    "total": 31,
+    "total": 32,
     "pending": 0,
     "high": 9,
-    "completed": 27,
-    "processingRate": 87
+    "completed": 28,
+    "processingRate": 88
   }
 }
