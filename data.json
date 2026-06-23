@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-23T08:28:32.296Z",
+  "updatedAt": "2026-06-23T11:57:24.865Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.22 18:29",
-    "period": "6월 1일 ~ 21일",
-    "todayRevenue": 32030000,
-    "monthRevenue": 1140000000,
-    "ytdRevenue": 10650000000,
-    "monthForecast": 1630000000,
+    "lastUpdate": "2026.06.23 18:51",
+    "period": "6월 1일 ~ 22일",
+    "todayRevenue": 94010000,
+    "monthRevenue": 1230000000,
+    "ytdRevenue": 10740000000,
+    "monthForecast": 1680000000,
     "top5": [
-      {
-        "brand": "유트리션",
-        "name": "와일드 알래스카 오메가3 미니 1000",
-        "dailyRevenue": 4350000,
-        "dailyQty": 224
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 3960000,
-        "dailyQty": 92
-      },
-      {
-        "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 3300000,
-        "dailyQty": 198
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "테라큐민 프라임 70",
-        "dailyRevenue": 2740000,
-        "dailyQty": 105
-      },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 2460000,
-        "dailyQty": 117
+        "dailyRevenue": 19130000,
+        "dailyQty": 1051
+      },
+      {
+        "brand": "데이타민",
+        "name": "칼마디K2 미네랄",
+        "dailyRevenue": 11710000,
+        "dailyQty": 316
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 9880000,
+        "dailyQty": 413
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "마그듀오 K2",
+        "dailyRevenue": 7630000,
+        "dailyQty": 428
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "퓨어 리포좀 글루타치온",
+        "dailyRevenue": 6040000,
+        "dailyQty": 288
       }
     ]
   },
