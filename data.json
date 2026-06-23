@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T00:02:06.002Z",
+  "updatedAt": "2026-06-23T04:56:46.939Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.06.22 18:29",
@@ -56,16 +56,16 @@
   },
   "stock": {
     "ok": true,
-    "urgentOrder": 6,
+    "urgentOrder": 2,
     "reviewOrder": 0,
-    "inProgress": 11,
-    "expiry6m": 5,
-    "expiry9m": 4,
-    "expiryWithin9m": 4,
+    "inProgress": 41,
+    "expiry6m": 0,
+    "expiry9m": 0,
+    "expiryWithin9m": 0,
     "expiry6to9m": null,
     "expiry9to12m": null,
-    "totalAmount": 2670000000,
-    "skuCount": 49
+    "totalAmount": 0,
+    "skuCount": 43
   },
   "voc": {
     "ok": true,
