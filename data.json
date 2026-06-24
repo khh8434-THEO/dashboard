@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-24T06:44:17.556Z",
+  "updatedAt": "2026-06-24T10:19:41.844Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.23 18:51",
-    "period": "6월 1일 ~ 22일",
-    "todayRevenue": 94010000,
-    "monthRevenue": 1230000000,
-    "ytdRevenue": 10740000000,
-    "monthForecast": 1680000000,
+    "lastUpdate": "2026.06.24 16:22",
+    "period": "6월 1일 ~ 23일",
+    "todayRevenue": 110000000,
+    "monthRevenue": 1360000000,
+    "ytdRevenue": 10870000000,
+    "monthForecast": 1780000000,
     "top5": [
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스60",
+        "dailyRevenue": 38990000,
+        "dailyQty": 1646
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 슈퍼플러스100",
+        "dailyRevenue": 23370000,
+        "dailyQty": 684
+      },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 19130000,
-        "dailyQty": 1051
+        "dailyRevenue": 5110000,
+        "dailyQty": 763
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 4390000,
+        "dailyQty": 155
       },
       {
         "brand": "데이타민",
         "name": "칼마디K2 미네랄",
-        "dailyRevenue": 11710000,
-        "dailyQty": 316
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 9880000,
-        "dailyQty": 413
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "마그듀오 K2",
-        "dailyRevenue": 7630000,
-        "dailyQty": 428
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "퓨어 리포좀 글루타치온",
-        "dailyRevenue": 6040000,
-        "dailyQty": 288
+        "dailyRevenue": 3640000,
+        "dailyQty": 95
       }
     ]
   },
