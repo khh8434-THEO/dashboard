@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T01:46:05.614Z",
+  "updatedAt": "2026-06-29T03:10:16.123Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.06.24 16:22",
@@ -70,9 +70,9 @@
   "voc": {
     "ok": true,
     "total": 33,
-    "pending": 0,
+    "pending": 1,
     "high": 9,
-    "completed": 32,
-    "processingRate": 97
+    "completed": 31,
+    "processingRate": 94
   }
 }
