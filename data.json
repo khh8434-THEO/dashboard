@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-06-30T09:08:33.491Z",
+  "updatedAt": "2026-06-30T11:03:34.764Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.06.29 17:22",
-    "period": "6월 1일 ~ 28일",
-    "todayRevenue": 50010000,
-    "monthRevenue": 1640000000,
-    "ytdRevenue": 11150000000,
-    "monthForecast": 1760000000,
+    "lastUpdate": "2026.06.30 19:32",
+    "period": "6월 1일 ~ 29일",
+    "todayRevenue": 73780000,
+    "monthRevenue": 1710000000,
+    "ytdRevenue": 11220000000,
+    "monthForecast": 1770000000,
     "top5": [
+      {
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 17730000,
+        "dailyQty": 519
+      },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스60",
-        "dailyRevenue": 8950000,
-        "dailyQty": 378
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 4750000,
-        "dailyQty": 112
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 4250000,
-        "dailyQty": 217
+        "dailyRevenue": 11370000,
+        "dailyQty": 484
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 슈퍼플러스100",
-        "dailyRevenue": 3690000,
-        "dailyQty": 107
+        "dailyRevenue": 5360000,
+        "dailyQty": 157
       },
       {
-        "brand": "유트리션",
-        "name": "튼튼 리포좀 비타민C",
-        "dailyRevenue": 3630000,
-        "dailyQty": 266
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 4380000,
+        "dailyQty": 230
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 4100000,
+        "dailyQty": 104
       }
     ]
   },
