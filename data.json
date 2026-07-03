@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-03T07:59:49.254Z",
+  "updatedAt": "2026-07-03T10:44:25.324Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.02 17:10",
-    "period": "7월 1일 ~ 1일",
-    "todayRevenue": 95190000,
-    "monthRevenue": 95190000,
-    "ytdRevenue": 11420000000,
-    "monthForecast": 2950000000,
+    "lastUpdate": "2026.07.03 18:16",
+    "period": "7월 1일 ~ 2일",
+    "todayRevenue": 71880000,
+    "monthRevenue": 170000000,
+    "ytdRevenue": 11500000000,
+    "monthForecast": 2590000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
         "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 21070000,
-        "dailyQty": 466
+        "dailyRevenue": 18630000,
+        "dailyQty": 409
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스60",
+        "dailyRevenue": 13300000,
+        "dailyQty": 606
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 15740000,
-        "dailyQty": 458
+        "dailyRevenue": 7780000,
+        "dailyQty": 230
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 10130000,
-        "dailyQty": 1498
+        "dailyRevenue": 5170000,
+        "dailyQty": 257
       },
       {
-        "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 6020000,
-        "dailyQty": 411
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 5570000,
-        "dailyQty": 231
+        "brand": "유트리션",
+        "name": "코엔자임 Q10",
+        "dailyRevenue": 4640000,
+        "dailyQty": 227
       }
     ]
   },
