@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-08T08:20:48.924Z",
+  "updatedAt": "2026-07-08T11:00:48.160Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.07 18:37",
-    "period": "7월 1일 ~ 6일",
-    "todayRevenue": 63720000,
-    "monthRevenue": 370000000,
-    "ytdRevenue": 11700000000,
-    "monthForecast": 1920000000,
+    "lastUpdate": "2026.07.08 17:59",
+    "period": "7월 1일 ~ 8일",
+    "todayRevenue": 56640000,
+    "monthRevenue": 460000000,
+    "ytdRevenue": 11790000000,
+    "monthForecast": 1780000000,
     "top5": [
+      {
+        "brand": "YDY뉴트리션",
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 8900000,
+        "dailyQty": 209
+      },
       {
         "brand": "박약다식",
         "name": "D를 담다 츄어블 2000IU",
-        "dailyRevenue": 12830000,
-        "dailyQty": 935
+        "dailyRevenue": 6320000,
+        "dailyQty": 461
       },
       {
         "brand": "데이타민",
         "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 11060000,
-        "dailyQty": 653
+        "dailyRevenue": 6220000,
+        "dailyQty": 368
       },
       {
         "brand": "YDY뉴트리션",
         "name": "액티브비큐텐",
-        "dailyRevenue": 7190000,
-        "dailyQty": 317
+        "dailyRevenue": 5970000,
+        "dailyQty": 241
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 5120000,
-        "dailyQty": 198
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 4590000,
-        "dailyQty": 101
+        "dailyRevenue": 4210000,
+        "dailyQty": 199
       }
     ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 7월 1일",
-    "weekLabel": "2026년 27주차",
-    "pbMonthShipment": 42000000,
-    "pbYtdShipment": 20640000000,
-    "gbMonth": 0,
-    "gbYtd": 42010000000,
-    "targetAchievement": "63.9%",
+    "baseDate": "2026년 7월 8일",
+    "weekLabel": "2026년 28주차",
+    "pbMonthShipment": 462000000,
+    "pbYtdShipment": 21060000000,
+    "gbMonth": 1760000000,
+    "gbYtd": 43770000000,
+    "targetAchievement": "65.2%",
     "annualTarget": 75000000000,
     "annualAchievement": "0.3%",
     "period": "2026년 누적"
