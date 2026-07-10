@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-10T08:18:26.880Z",
+  "updatedAt": "2026-07-10T11:47:24.928Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.09 17:46",
-    "period": "7월 1일 ~ 8일",
-    "todayRevenue": 49910000,
-    "monthRevenue": 480000000,
-    "ytdRevenue": 11810000000,
-    "monthForecast": 1850000000,
+    "lastUpdate": "2026.07.10 19:05",
+    "period": "7월 1일 ~ 9일",
+    "todayRevenue": 47150000,
+    "monthRevenue": 530000000,
+    "ytdRevenue": 11850000000,
+    "monthForecast": 1810000000,
     "top5": [
+      {
+        "brand": "유트리션",
+        "name": "마시는 마그네슘 200",
+        "dailyRevenue": 9890000,
+        "dailyQty": 799
+      },
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 9720000,
-        "dailyQty": 287
+        "dailyRevenue": 4840000,
+        "dailyQty": 115
       },
       {
         "brand": "YDY뉴트리션",
         "name": "액티브비큐텐",
-        "dailyRevenue": 5580000,
-        "dailyQty": 248
+        "dailyRevenue": 4390000,
+        "dailyQty": 172
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 3650000,
+        "dailyQty": 152
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 4140000,
-        "dailyQty": 200
-      },
-      {
-        "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 3910000,
-        "dailyQty": 232
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "퓨어 리포좀 비타민C",
-        "dailyRevenue": 2710000,
-        "dailyQty": 313
+        "dailyRevenue": 3490000,
+        "dailyQty": 166
       }
     ]
   },
