@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T04:46:35.234Z",
+  "updatedAt": "2026-07-10T08:18:26.880Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.07.09 17:46",
@@ -58,14 +58,14 @@
     "ok": true,
     "urgentOrder": 2,
     "reviewOrder": 0,
-    "inProgress": 43,
+    "inProgress": 42,
     "expiry6m": 0,
     "expiry9m": 0,
     "expiryWithin9m": 0,
     "expiry6to9m": null,
     "expiry9to12m": null,
     "totalAmount": 0,
-    "skuCount": 45
+    "skuCount": 44
   },
   "voc": {
     "ok": true,
