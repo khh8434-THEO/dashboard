@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-14T07:55:22.047Z",
+  "updatedAt": "2026-07-14T09:54:19.457Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.10 19:05",
-    "period": "7월 1일 ~ 9일",
-    "todayRevenue": 47150000,
-    "monthRevenue": 530000000,
-    "ytdRevenue": 11850000000,
-    "monthForecast": 1810000000,
+    "lastUpdate": "2026.07.14 18:13",
+    "period": "7월 1일 ~ 14일",
+    "todayRevenue": 46530000,
+    "monthRevenue": 700000000,
+    "ytdRevenue": 12030000000,
+    "monthForecast": 1550000000,
     "top5": [
-      {
-        "brand": "유트리션",
-        "name": "마시는 마그네슘 200",
-        "dailyRevenue": 9890000,
-        "dailyQty": 799
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 4840000,
-        "dailyQty": 115
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 4390000,
-        "dailyQty": 172
-      },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 3650000,
-        "dailyQty": 152
+        "dailyRevenue": 7810000,
+        "dailyQty": 329
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3490000,
-        "dailyQty": 166
+        "dailyRevenue": 4150000,
+        "dailyQty": 172
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "유한 YDY 혈당케어 여주",
+        "dailyRevenue": 3910000,
+        "dailyQty": 86
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 3350000,
+        "dailyQty": 134
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브헴철",
+        "dailyRevenue": 3260000,
+        "dailyQty": 120
       }
     ]
   },
