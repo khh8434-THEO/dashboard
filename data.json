@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-15T07:14:20.253Z",
+  "updatedAt": "2026-07-15T09:58:18.342Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.14 18:13",
+    "lastUpdate": "2026.07.15 16:53",
     "period": "7월 1일 ~ 14일",
-    "todayRevenue": 46530000,
-    "monthRevenue": 700000000,
-    "ytdRevenue": 12030000000,
-    "monthForecast": 1550000000,
+    "todayRevenue": 50120000,
+    "monthRevenue": 730000000,
+    "ytdRevenue": 12060000000,
+    "monthForecast": 1630000000,
     "top5": [
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 7810000,
-        "dailyQty": 329
+        "dailyRevenue": 7620000,
+        "dailyQty": 318
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 프라임 70",
+        "dailyRevenue": 6070000,
+        "dailyQty": 243
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 부스터 100",
+        "dailyRevenue": 4530000,
+        "dailyQty": 122
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 4150000,
-        "dailyQty": 172
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 3910000,
-        "dailyQty": 86
+        "dailyRevenue": 3800000,
+        "dailyQty": 156
       },
       {
         "brand": "YDY뉴트리션",
         "name": "액티브비큐텐",
-        "dailyRevenue": 3350000,
-        "dailyQty": 134
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "액티브헴철",
-        "dailyRevenue": 3260000,
-        "dailyQty": 120
+        "dailyRevenue": 3490000,
+        "dailyQty": 139
       }
     ]
   },
