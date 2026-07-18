@@ -1,45 +1,14 @@
 {
-  "updatedAt": "2026-07-18T18:57:19.382Z",
+  "updatedAt": "2026-07-18T20:03:36.702Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.16 15:17",
-    "period": "7월 1일 ~ 15일",
-    "todayRevenue": 38200000,
-    "monthRevenue": 770000000,
-    "ytdRevenue": 12100000000,
-    "monthForecast": 1600000000,
-    "top5": [
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 4040000,
-        "dailyQty": 170
-      },
-      {
-        "brand": "유트리션",
-        "name": "마시는 마그네슘 200",
-        "dailyRevenue": 3740000,
-        "dailyQty": 290
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "테라큐민 프라임 70",
-        "dailyRevenue": 3120000,
-        "dailyQty": 119
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 3080000,
-        "dailyQty": 65
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 3070000,
-        "dailyQty": 130
-      }
-    ]
+    "lastUpdate": null,
+    "period": null,
+    "todayRevenue": null,
+    "monthRevenue": null,
+    "ytdRevenue": null,
+    "monthForecast": null,
+    "top5": []
   },
   "weekly": {
     "ok": true,
