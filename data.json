@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-21T05:46:15.774Z",
+  "updatedAt": "2026-07-21T08:20:08.852Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.20 17:08",
-    "period": "7월 1일 ~ 19일",
-    "todayRevenue": 160000000,
-    "monthRevenue": 1040000000,
-    "ytdRevenue": 12370000000,
-    "monthForecast": 1700000000,
+    "lastUpdate": "2026.07.21 17:14",
+    "period": "7월 1일 ~ 20일",
+    "todayRevenue": 130000000,
+    "monthRevenue": 1180000000,
+    "ytdRevenue": 12510000000,
+    "monthForecast": 1820000000,
     "top5": [
       {
         "brand": "파이토알엑스",
         "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 68250000,
-        "dailyQty": 1360
-      },
-      {
-        "brand": "기타",
-        "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 57940000,
-        "dailyQty": 1278
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 4930000,
-        "dailyQty": 146
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "테라큐민 프라임 70",
-        "dailyRevenue": 3560000,
-        "dailyQty": 134
+        "dailyRevenue": 82310000,
+        "dailyQty": 1759
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 2930000,
-        "dailyQty": 123
+        "dailyRevenue": 7830000,
+        "dailyQty": 377
+      },
+      {
+        "brand": "데이타민",
+        "name": "칼마디K2 미네랄",
+        "dailyRevenue": 6650000,
+        "dailyQty": 173
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 5210000,
+        "dailyQty": 171
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 프라임 70",
+        "dailyRevenue": 3670000,
+        "dailyQty": 141
       }
     ]
   },
