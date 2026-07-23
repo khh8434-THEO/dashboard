@@ -1,8 +1,8 @@
 /**
- * 미래사업본부 통합 대시보드 — 데이터 추출 스크립트 (v3)
+ * 미래사업본부 통합 대시보드 — 데이터 추출 스크립트 (v4)
  *
- * 각 대시보드 실제 페이지 텍스트를 기반으로 패턴이 검증되었습니다.
- * 매일 오전 8시(KST) GitHub Actions가 자동 실행하여 data.json 생성.
+ * 재고 관리 대시보드가 새 페이지(pharma-dashboard/dashboard_v2.html#inventory)로 교체됨.
+ * 매일 오전 8시 KST GitHub Actions가 자동 실행하여 data.json 생성.
  */
 
 import { chromium } from 'playwright';
@@ -17,7 +17,7 @@ const DATA_PATH = path.join(REPO_ROOT, 'data.json');
 const URLS = {
   daily:  'https://khh8434-theo.github.io/daily-dashboard/',
   weekly: 'https://khh8434-theo.github.io/pharmabros-weekly-dashboard/',
-  stock:  'https://khh8434-theo.github.io/stock-managementdashboard/',
+  stock:  'https://hannah-pb.github.io/pharma-dashboard/dashboard_v2.html#inventory',
   voc:    'https://pharmacy-voc-dashboard.vercel.app/',
 };
 
@@ -77,13 +77,11 @@ async function extractDaily(browser) {
       const lastUpdate = text.match(/최종\s*업데이트\s*[:：]?\s*(\d{4}\.\d{1,2}\.\d{1,2}\s+\d{1,2}:\d{2})/)?.[1] || null;
       const period     = text.match(/데이터\s*기간\s*[:：]?\s*([^\n]+)/)?.[1]?.trim() || null;
 
-      // 라벨 직접 매칭 (페이지 텍스트: "당일 매출\n5,675만원\n기준일: 5/27")
       const todayRevenue  = matchKRW(text, /당일\s*매출\s*\n\s*([\d.,]+\s*[억만]?원?)/);
       const monthRevenue  = matchKRW(text, /(?:1|2|3|4|5|6|7|8|9|10|11|12)월\s*누적\s*매출\s*\n\s*([\d.,]+\s*[억만]?원?)/);
       const ytdRevenue    = matchKRW(text, /2026\s*누적\s*매출\s*\n\s*([\d.,]+\s*[억만]?원?)/);
       const monthForecast = matchKRW(text, /월\s*예상\s*마감\s*매출\s*\n\s*([\d.,]+\s*[억만]?원?)/);
 
-      // 일일 상품 테이블 — 헤더에 "일일 매출"이 있는 테이블 선택 후 컬럼 인덱스로 추출
       const top5 = await page.evaluate(() => {
         const tables = Array.from(document.querySelectorAll('table'));
         let target = null;
@@ -111,8 +109,7 @@ async function extractDaily(browser) {
       });
 
       const top5Parsed = top5.slice(0, 5).map(p => ({
-        brand: p.brand,
-        name: p.name,
+        brand: p.brand, name: p.name,
         dailyRevenue: parseNum(p.rev),
         dailyQty: parseNum(p.qty),
       }));
@@ -134,11 +131,9 @@ async function extractWeekly(browser) {
       await page.waitForTimeout(2000);
       const text = await page.evaluate(() => document.body.innerText || '');
 
-      // "기준일:\n2026년 5월 28일\n|" 형식
       const baseDate =
         text.match(/기준일\s*[:：]\s*\n*\s*(\d{4}년\s*\d{1,2}월\s*\d{1,2}일)/)?.[1] ||
-        text.match(/기준일\s*[:：]?\s*\n?(\d{4}[.\-\/]\d{1,2}[.\-\/]\d{1,2})/)?.[1] ||
-        null;
+        text.match(/기준일\s*[:：]?\s*\n?(\d{4}[.\-\/]\d{1,2}[.\-\/]\d{1,2})/)?.[1] || null;
       const weekLabel = text.match(/(\d{4})년\s+(\d{1,2})주차/)?.[0] || null;
 
       const pbMonthShipment = matchKRW(text, /(?:1|2|3|4|5|6|7|8|9|10|11|12)월\s*자사\s*PB\s*출고[^\n]*\n\s*([\d.,]+\s*[억만]?)/);
@@ -162,35 +157,83 @@ async function extractWeekly(browser) {
   );
 }
 
-// ---------- STOCK ----------
+// ---------- STOCK (new dashboard: pharma-dashboard/dashboard_v2.html#inventory) ----------
 
 async function extractStock(browser) {
   return safeRun('stock', () =>
     withPage(browser, URLS.stock, async (page) => {
+      // 해시가 있어야 inventory 페이지가 활성화됨. 확실히 하기 위해 재라우팅.
+      await page.evaluate(() => {
+        if (location.hash !== '#inventory') {
+          location.hash = '#inventory';
+          window.dispatchEvent(new HashChangeEvent('hashchange'));
+        }
+      });
+
+      // 데이터 로딩 대기 — invAlarmCount 등이 텍스트로 채워질 때까지
+      await page.waitForFunction(() => {
+        const el = document.getElementById('invAlarmCount') ||
+                   document.getElementById('invExpiryCount') ||
+                   document.getElementById('invStockoutCount');
+        return el && el.textContent && el.textContent.trim().length > 0;
+      }, { timeout: 30_000 }).catch(() => {});
+      // 안전 대기
       await page.waitForTimeout(3_000);
+
+      // 4개 카운터 + 소비기한 세부 밴드 추출
+      const counters = await page.evaluate(() => {
+        const get = (id) => {
+          const el = document.getElementById(id);
+          if (!el) return null;
+          const m = (el.textContent || '').match(/(\d+)/);
+          return m ? Number(m[1]) : null;
+        };
+        return {
+          orderAlarm:   get('invAlarmCount'),
+          expiryTotal:  get('invExpiryCount'),
+          stockoutRisk: get('invStockoutCount'),
+          gonguExpiry:  get('invGonguExpiryCount'),
+        };
+      });
+
+      // 소비기한 세부 밴드: 테이블에서 뱃지 클래스 카운트
+      const expiryBands = await page.evaluate(() => {
+        const table = document.getElementById('tblExpiry');
+        if (!table) return { m3: null, m6: null, m9: null, m12: null, m14: null };
+        const bands = { m3: 0, m6: 0, m9: 0, m12: 0, m14: 0 };
+        const rows = table.querySelectorAll('tbody tr');
+        rows.forEach(tr => {
+          const badges = tr.querySelectorAll('.inv-badge');
+          badges.forEach(b => {
+            const cls = b.className;
+            if (cls.includes('red')) bands.m3++;
+            else if (cls.includes('orange')) bands.m6++;
+            else if (cls.includes('yellow')) bands.m9++;
+            else if (cls.includes('blue')) bands.m12++;
+            else if (cls.includes('gray')) bands.m14++;
+          });
+        });
+        return rows.length ? bands : { m3: null, m6: null, m9: null, m12: null, m14: null };
+      });
+
+      // 페이지 텍스트에서 '총 재고금액' 시도 (KPI 카드 영역)
       const text = await page.evaluate(() => document.body.innerText || '');
-
-      // 새 포맷: "라벨\n숫자\n부가설명" (건 suffix 없음)
-      const grab = (label) => {
-        const re = new RegExp(label + '\\s*\\n\\s*(\\d+)');
-        const m = text.match(re);
-        return m ? Number(m[1]) : null;
-      };
-
-      const urgentOrder = grab('즉시\\s*발주\\s*필요');
-      const reviewOrder = grab('발주\\s*검토\\s*권장');
-      const inProgress  = grab('발주\\s*진행\\s*중');
-      const expiry6m    = grab('유통기한\\s*6\\s*개월\\s*이내');
-      const expiry9m    = grab('유통기한\\s*9\\s*개월\\s*이내');
-      const totalAmount = matchKRW(text, /총\s*재고\s*금액\s*\n\s*([\d.,]+\s*[억만]?)/);
-      const skuCount    = matchInt(text, /(\d+)\s*개\s*SKU/);
+      const totalAmount = matchKRW(text, /총\s*재고\s*금액\s*[\n:：]?\s*([\d.,]+\s*[억만]?)/);
+      const skuCount    = matchInt(text, /(\d+)\s*개\s*SKU/) || matchInt(text, /SKU\s*[:：]?\s*(\d+)/);
 
       return {
-        urgentOrder, reviewOrder, inProgress,
-        expiry6m, expiry9m,
-        // 호환성(기존 HTML이 expiryWithin9m 참조)
-        expiryWithin9m: expiry9m,
-        expiry6to9m: null, expiry9to12m: null,
+        // 새 대시보드 기본 4개 카운터
+        orderAlarm:   counters.orderAlarm,
+        expiryTotal:  counters.expiryTotal,
+        stockoutRisk: counters.stockoutRisk,
+        gonguExpiry:  counters.gonguExpiry,
+        // 소비기한 세부 밴드
+        expiry3m:  expiryBands.m3,
+        expiry6m:  expiryBands.m6,
+        expiry9m:  expiryBands.m9,
+        expiry12m: expiryBands.m12,
+        expiry14m: expiryBands.m14,
+        // 참고
         totalAmount, skuCount,
       };
     })
@@ -214,7 +257,6 @@ async function extractVoc(browser) {
       const total   = grab('총\\s*문의');
       const pending = grab('미처리');
       const high    = grab('🔴?\\s*높음\\s*우선순위') || grab('높음\\s*우선순위');
-      // "처리율 50%" 형식이 라인 안에 있음
       const rateMatch = text.match(/처리율\s*(\d{1,3})\s*%/);
       const completed = text.match(/(\d+)\s*\n\s*완료\s*건수/)?.[1] ? Number(text.match(/(\d+)\s*\n\s*완료\s*건수/)[1]) : null;
       const processingRate = rateMatch ? Number(rateMatch[1])
@@ -224,8 +266,6 @@ async function extractVoc(browser) {
     })
   );
 }
-
-// ---------- main ----------
 
 async function main() {
   console.log('Launching browser…');
