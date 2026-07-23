@@ -150,7 +150,6 @@
   .status-tag.err { background: #fee2e2; color: #991b1b; }
   .status-tag.info { background: #fce7f3; color: #9d174d; }
 
-  /* External-only panel (marketing) */
   .external-panel {
     flex: 1; min-height: 0;
     display: flex; align-items: center; justify-content: center;
@@ -230,7 +229,7 @@
   <section class="panel active" id="panel-home">
     <div class="home-wrap">
       <h2 class="home-title">미래사업본부 대시보드 허브</h2>
-      <p class="home-sub">매일 오전 8시 KST에 각 대시보드의 핵심 지표가 자동으로 새로고침됩니다.</p>
+      <p class="home-sub">매시간 정각에 각 대시보드의 핵심 지표가 자동으로 새로고침됩니다.</p>
 
       <div class="cards">
 
@@ -280,20 +279,20 @@
         <div class="card card-clickable" data-target="stock" role="button" tabindex="0">
           <span class="status-tag" data-status="stock">대기</span>
           <div class="card-head"><div class="card-icon">📦</div><div>
-            <div class="card-title">자사 PB 재고 관리 대시보드</div>
-            <div class="card-period">구글 시트 실시간 연동 · 자동 새로고침</div>
+            <div class="card-title">파마브로스 재고 관리 대시보드</div>
+            <div class="card-period">Google Sheet 연동 · 자동 새로고침</div>
           </div></div>
-          <p class="card-desc">SKU별 재고·일평균·소진 예상일을 실시간으로 추적. 발주 알람과 유통기한 단계별 경고를 한 화면에서 관리.</p>
+          <p class="card-desc">SKU별 재고·소진 예상일·발주 상태를 실시간 추적. 발주 알람, 소비기한 임박(15개월↓), 입고 예정, 공구 소비기한을 한 화면에서 관리.</p>
           <div class="metric-row metric-row-4">
-            <div class="metric"><div class="metric-label">🚨 즉시 발주</div><div class="metric-value placeholder" data-bind="stock.urgentOrder" data-alarm-positive="1" data-suffix="건">—</div></div>
-            <div class="metric"><div class="metric-label">⚠️ 검토 권장</div><div class="metric-value placeholder" data-bind="stock.reviewOrder" data-warn-positive="1" data-suffix="건">—</div></div>
-            <div class="metric"><div class="metric-label">🔴 6개월 이내</div><div class="metric-value placeholder" data-bind="stock.expiry6m" data-alarm-positive="1" data-suffix="건">—</div></div>
-            <div class="metric"><div class="metric-label">🟠 9개월 이내</div><div class="metric-value placeholder" data-bind="stock.expiry9m" data-warn-positive="1" data-suffix="건">—</div></div>
+            <div class="metric"><div class="metric-label">🔔 발주 알람</div><div class="metric-value placeholder" data-bind="stock.orderAlarm" data-alarm-positive="1" data-suffix="건">—</div></div>
+            <div class="metric"><div class="metric-label">⚠️ 소비기한 임박</div><div class="metric-value placeholder" data-bind="stock.expiryTotal" data-warn-positive="1" data-suffix="건">—</div></div>
+            <div class="metric"><div class="metric-label">📦 입고 점검</div><div class="metric-value placeholder" data-bind="stock.stockoutRisk" data-alarm-positive="1" data-suffix="건">—</div></div>
+            <div class="metric"><div class="metric-label">⏰ 공구 소비기한</div><div class="metric-value placeholder" data-bind="stock.gonguExpiry" data-warn-positive="1" data-suffix="건">—</div></div>
           </div>
-          <div class="chip-row"><span class="chip">발주 알람</span><span class="chip">유통기한</span><span class="chip">전체 재고</span></div>
+          <div class="chip-row"><span class="chip">발주 알람</span><span class="chip">소비기한</span><span class="chip">입고 일정</span><span class="chip">공구</span></div>
           <div class="card-foot">
             <button class="open-btn" data-go="stock">대시보드 열기 →</button>
-            <a class="ext-link" href="https://khh8434-theo.github.io/stock-managementdashboard/" target="_blank" rel="noopener">새 창에서</a>
+            <a class="ext-link" href="https://hannah-pb.github.io/pharma-dashboard/dashboard_v2.html#inventory" target="_blank" rel="noopener">새 창에서</a>
           </div>
         </div>
 
@@ -317,7 +316,6 @@
           </div>
         </div>
 
-        <!-- Marketing card -->
         <div class="card card-clickable" data-target="marketing" role="button" tabindex="0">
           <span class="status-tag info" data-status="marketing">Google 인증 필요</span>
           <div class="card-head"><div class="card-icon">📣</div><div>
@@ -350,8 +348,8 @@
     <iframe class="dash-frame" data-src="https://khh8434-theo.github.io/pharmabros-weekly-dashboard/" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div></section>
   <section class="panel" id="panel-stock"><div class="iframe-wrap">
-    <div class="iframe-bar"><div>📦 <b>자사 PB 재고 관리 대시보드</b></div><div class="actions"><a href="#" data-go="home">← 메인으로</a><a href="https://khh8434-theo.github.io/stock-managementdashboard/" target="_blank" rel="noopener">원본 새 창 ↗</a></div></div>
-    <iframe class="dash-frame" data-src="https://khh8434-theo.github.io/stock-managementdashboard/" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <div class="iframe-bar"><div>📦 <b>파마브로스 재고 관리 대시보드</b></div><div class="actions"><a href="#" data-go="home">← 메인으로</a><a href="https://hannah-pb.github.io/pharma-dashboard/dashboard_v2.html#inventory" target="_blank" rel="noopener">원본 새 창 ↗</a></div></div>
+    <iframe class="dash-frame" data-src="https://hannah-pb.github.io/pharma-dashboard/dashboard_v2.html#inventory" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div></section>
   <section class="panel" id="panel-voc"><div class="iframe-wrap">
     <div class="iframe-bar"><div>💬 <b>약사 문의 현황 대시보드</b></div><div class="actions"><a href="#" data-go="home">← 메인으로</a><a href="https://pharmacy-voc-dashboard.vercel.app/" target="_blank" rel="noopener">원본 새 창 ↗</a></div></div>
