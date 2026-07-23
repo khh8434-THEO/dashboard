@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-23T07:29:48.586Z",
+  "updatedAt": "2026-07-23T10:17:00.629Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.22 16:35",
-    "period": "7월 1일 ~ 21일",
-    "todayRevenue": 120000000,
-    "monthRevenue": 1300000000,
-    "ytdRevenue": 12630000000,
-    "monthForecast": 1920000000,
+    "lastUpdate": "2026.07.23 16:52",
+    "period": "7월 1일 ~ 22일",
+    "todayRevenue": 77390000,
+    "monthRevenue": 1380000000,
+    "ytdRevenue": 12700000000,
+    "monthForecast": 1940000000,
     "top5": [
       {
         "brand": "파이토알엑스",
         "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 78280000,
-        "dailyQty": 1645
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 4580000,
-        "dailyQty": 117
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 4500000,
-        "dailyQty": 392
+        "dailyRevenue": 35410000,
+        "dailyQty": 745
       },
       {
         "brand": "데이타민",
         "name": "칼마디K2 미네랄",
-        "dailyRevenue": 2850000,
-        "dailyQty": 73
+        "dailyRevenue": 5900000,
+        "dailyQty": 156
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "퓨어 리포좀 비타민C",
-        "dailyRevenue": 2690000,
-        "dailyQty": 137
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 5120000,
+        "dailyQty": 262
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 4360000,
+        "dailyQty": 115
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 3560000,
+        "dailyQty": 97
       }
     ]
   },
@@ -46,10 +46,10 @@
     "baseDate": "2026년 7월 22일",
     "weekLabel": "2026년 30주차",
     "pbMonthShipment": 1308000000,
-    "pbYtdShipment": 23970000000,
+    "pbYtdShipment": 24170000000,
     "gbMonth": 5340000000,
     "gbYtd": 47350000000,
-    "targetAchievement": "74.2%",
+    "targetAchievement": "74.8%",
     "annualTarget": 75000000000,
     "annualAchievement": "0.3%",
     "period": "2026년 누적"
@@ -60,7 +60,7 @@
     "expiryTotal": 16,
     "stockoutRisk": 4,
     "gonguExpiry": 6,
-    "expiry3m": 12,
+    "expiry3m": 11,
     "expiry6m": 7,
     "expiry9m": 3,
     "expiry12m": 2,
