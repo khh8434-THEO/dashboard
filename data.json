@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-28T08:26:57.632Z",
+  "updatedAt": "2026-07-28T11:14:02.498Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.27 16:16",
-    "period": "7월 1일 ~ 26일",
-    "todayRevenue": 30660000,
-    "monthRevenue": 1560000000,
-    "ytdRevenue": 12900000000,
+    "lastUpdate": "2026.07.28 18:04",
+    "period": "7월 1일 ~ 27일",
+    "todayRevenue": 60340000,
+    "monthRevenue": 1620000000,
+    "ytdRevenue": 12960000000,
     "monthForecast": 1860000000,
     "top5": [
       {
+        "brand": "박약다식",
+        "name": "오늘도 맑아연",
+        "dailyRevenue": 19530000,
+        "dailyQty": 919
+      },
+      {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3350000,
-        "dailyQty": 155
+        "dailyRevenue": 5710000,
+        "dailyQty": 783
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 3150000,
-        "dailyQty": 81
+        "dailyRevenue": 4120000,
+        "dailyQty": 610
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 3100000,
+        "dailyQty": 325
       },
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
         "dailyRevenue": 2920000,
-        "dailyQty": 69
-      },
-      {
-        "brand": "데이타민",
-        "name": "칼마디K2 미네랄",
-        "dailyRevenue": 2650000,
-        "dailyQty": 71
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "퓨어 레드큐민",
-        "dailyRevenue": 2390000,
-        "dailyQty": 95
+        "dailyQty": 80
       }
     ]
   },
@@ -56,7 +56,7 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 3,
+    "orderAlarm": 4,
     "expiryTotal": 17,
     "stockoutRisk": 5,
     "gonguExpiry": 6,
