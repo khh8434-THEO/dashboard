@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-30T09:28:03.567Z",
+  "updatedAt": "2026-07-30T11:49:06.672Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.29 19:14",
+    "lastUpdate": "2026.07.30 19:20",
     "period": "7월 1일 ~ 29일",
-    "todayRevenue": 39370000,
-    "monthRevenue": 1680000000,
-    "ytdRevenue": 13010000000,
-    "monthForecast": 1790000000,
+    "todayRevenue": 36730000,
+    "monthRevenue": 1700000000,
+    "ytdRevenue": 13030000000,
+    "monthForecast": 1820000000,
     "top5": [
       {
         "brand": "박약다식",
         "name": "오늘도 맑아연",
-        "dailyRevenue": 9950000,
-        "dailyQty": 481
+        "dailyRevenue": 6220000,
+        "dailyQty": 292
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "마그듀오 K2",
+        "dailyRevenue": 4990000,
+        "dailyQty": 361
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 5020000,
-        "dailyQty": 238
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "퓨어 레드큐민",
-        "dailyRevenue": 2850000,
-        "dailyQty": 114
+        "dailyRevenue": 3450000,
+        "dailyQty": 169
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 2470000,
-        "dailyQty": 59
+        "dailyRevenue": 2830000,
+        "dailyQty": 74
       },
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 2380000,
-        "dailyQty": 52
+        "dailyRevenue": 2720000,
+        "dailyQty": 69
       }
     ]
   },
