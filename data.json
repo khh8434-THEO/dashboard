@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-31T09:40:28.133Z",
+  "updatedAt": "2026-07-31T11:55:38.250Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.07.30 19:20",
-    "period": "7월 1일 ~ 29일",
-    "todayRevenue": 36730000,
-    "monthRevenue": 1700000000,
-    "ytdRevenue": 13030000000,
-    "monthForecast": 1820000000,
+    "lastUpdate": "2026.07.31 18:39",
+    "period": "7월 1일 ~ 30일",
+    "todayRevenue": 42110000,
+    "monthRevenue": 1740000000,
+    "ytdRevenue": 13080000000,
+    "monthForecast": 1800000000,
     "top5": [
       {
-        "brand": "박약다식",
-        "name": "오늘도 맑아연",
-        "dailyRevenue": 6220000,
-        "dailyQty": 292
+        "brand": "유트리션",
+        "name": "알래스카 순수 오메가3 600 미니",
+        "dailyRevenue": 8680000,
+        "dailyQty": 427
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "마그듀오 K2",
-        "dailyRevenue": 4990000,
-        "dailyQty": 361
+        "name": "썬 비타민D3 & K2",
+        "dailyRevenue": 6330000,
+        "dailyQty": 362
       },
       {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 3450000,
-        "dailyQty": 169
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 5650000,
+        "dailyQty": 239
       },
       {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 2830000,
-        "dailyQty": 74
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 슈퍼플러스 100",
+        "dailyRevenue": 3560000,
+        "dailyQty": 106
       },
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 2720000,
-        "dailyQty": 69
+        "dailyRevenue": 2760000,
+        "dailyQty": 80
       }
     ]
   },
