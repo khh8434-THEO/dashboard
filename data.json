@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T13:37:43.024Z",
+  "updatedAt": "2026-08-03T16:19:59.690Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.08.03 18:48",
@@ -61,8 +61,8 @@
     "stockoutRisk": 4,
     "gonguExpiry": 6,
     "expiry3m": 14,
-    "expiry6m": 5,
-    "expiry9m": 3,
+    "expiry6m": 6,
+    "expiry9m": 2,
     "expiry12m": 3,
     "expiry14m": 7,
     "totalAmount": 3490000000,
