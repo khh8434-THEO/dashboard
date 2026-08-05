@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-08-05T06:26:45.812Z",
+  "updatedAt": "2026-08-05T09:34:00.623Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.04 18:38",
+    "lastUpdate": "2026.08.05 15:58",
     "period": "8월 1일 ~ 4일",
-    "todayRevenue": 64550000,
-    "monthRevenue": 260000000,
-    "ytdRevenue": 13360000000,
-    "monthForecast": 2010000000,
+    "todayRevenue": 70730000,
+    "monthRevenue": 310000000,
+    "ytdRevenue": 13400000000,
+    "monthForecast": 2370000000,
     "top5": [
       {
-        "brand": "데이타민",
-        "name": "칼마디K2 미네랄",
-        "dailyRevenue": 11340000,
-        "dailyQty": 295
+        "brand": "파이토알엑스",
+        "name": "트룰리 알티지 오메가3 1100",
+        "dailyRevenue": 26540000,
+        "dailyQty": 673
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 5640000,
-        "dailyQty": 238
+        "dailyRevenue": 7200000,
+        "dailyQty": 304
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 5190000,
-        "dailyQty": 509
+        "dailyRevenue": 4550000,
+        "dailyQty": 209
       },
       {
-        "brand": "한독 네이처셋",
-        "name": "한독 네이처셋 빌베리 엘더베리",
-        "dailyRevenue": 4990000,
-        "dailyQty": 287
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 슈퍼플러스 100",
+        "dailyRevenue": 3750000,
+        "dailyQty": 109
       },
       {
-        "brand": "박약다식",
-        "name": "오늘도 맑아연",
-        "dailyRevenue": 4890000,
-        "dailyQty": 230
+        "brand": "데이타민",
+        "name": "칼마디K2 미네랄",
+        "dailyRevenue": 3570000,
+        "dailyQty": 90
       }
     ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 7월 29일",
-    "weekLabel": "2026년 31주차",
-    "pbMonthShipment": 1308000000,
+    "baseDate": "2026년 8월 5일",
+    "weekLabel": "2026년 32주차",
+    "pbMonthShipment": 201000000,
     "pbYtdShipment": null,
-    "gbMonth": 6720000000,
-    "gbYtd": 48730000000,
+    "gbMonth": 870000000,
+    "gbYtd": 50070000000,
     "targetAchievement": null,
     "annualTarget": 55000000000,
     "annualAchievement": "44.0%",
