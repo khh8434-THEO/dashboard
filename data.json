@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-07T08:54:11.242Z",
+  "updatedAt": "2026-08-07T09:57:40.453Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.06 16:56",
-    "period": "8월 1일 ~ 5일",
-    "todayRevenue": 58300000,
-    "monthRevenue": 360000000,
-    "ytdRevenue": 13460000000,
-    "monthForecast": 2260000000,
+    "lastUpdate": "2026.08.07 18:30",
+    "period": "8월 1일 ~ 7일",
+    "todayRevenue": 36750000,
+    "monthRevenue": 430000000,
+    "ytdRevenue": 13530000000,
+    "monthForecast": 1900000000,
     "top5": [
       {
         "brand": "파이토알엑스",
         "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 18360000,
-        "dailyQty": 232
-      },
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 4110000,
-        "dailyQty": 193
+        "dailyRevenue": 9250000,
+        "dailyQty": 111
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "썬 비타민D3 & K2",
-        "dailyRevenue": 3860000,
-        "dailyQty": 225
-      },
-      {
-        "brand": "유트리션",
-        "name": "알래스카 순수 오메가3 600 미니",
-        "dailyRevenue": 3810000,
-        "dailyQty": 180
+        "name": "유한 YDY 혈당케어 여주",
+        "dailyRevenue": 4140000,
+        "dailyQty": 90
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3770000,
-        "dailyQty": 144
+        "dailyRevenue": 3510000,
+        "dailyQty": 148
+      },
+      {
+        "brand": "데이타민",
+        "name": "클린 화이버",
+        "dailyRevenue": 2380000,
+        "dailyQty": 116
+      },
+      {
+        "brand": "데이타민",
+        "name": "칼마디K2 미네랄",
+        "dailyRevenue": 2160000,
+        "dailyQty": 52
       }
     ]
   },
@@ -56,7 +56,7 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 5,
+    "orderAlarm": 6,
     "expiryTotal": 16,
     "stockoutRisk": 4,
     "gonguExpiry": 7,
