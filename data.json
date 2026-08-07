@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:43:27.881Z",
+  "updatedAt": "2026-08-07T12:53:19.456Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.08.07 18:30",
@@ -56,17 +56,17 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": null,
-    "expiryTotal": null,
-    "stockoutRisk": null,
-    "gonguExpiry": null,
-    "expiry3m": null,
-    "expiry6m": null,
-    "expiry9m": null,
-    "expiry12m": null,
-    "expiry14m": null,
-    "totalAmount": null,
-    "skuCount": null
+    "orderAlarm": 6,
+    "expiryTotal": 16,
+    "stockoutRisk": 4,
+    "gonguExpiry": 7,
+    "expiry3m": 15,
+    "expiry6m": 4,
+    "expiry9m": 2,
+    "expiry12m": 3,
+    "expiry14m": 7,
+    "totalAmount": 3350000000,
+    "skuCount": 74
   },
   "voc": {
     "ok": true,
