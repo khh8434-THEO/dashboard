@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-10T05:22:25.396Z",
+  "updatedAt": "2026-08-10T07:23:02.408Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.07 18:30",
-    "period": "8월 1일 ~ 7일",
-    "todayRevenue": 36750000,
-    "monthRevenue": 430000000,
-    "ytdRevenue": 13530000000,
-    "monthForecast": 1900000000,
+    "lastUpdate": "2026.08.10 15:35",
+    "period": "8월 1일 ~ 9일",
+    "todayRevenue": 43200000,
+    "monthRevenue": 540000000,
+    "ytdRevenue": 13640000000,
+    "monthForecast": 1860000000,
     "top5": [
       {
         "brand": "파이토알엑스",
         "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 9250000,
-        "dailyQty": 111
+        "dailyRevenue": 7780000,
+        "dailyQty": 112
       },
       {
         "brand": "YDY뉴트리션",
         "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 4140000,
-        "dailyQty": 90
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 3510000,
-        "dailyQty": 148
-      },
-      {
-        "brand": "데이타민",
-        "name": "클린 화이버",
-        "dailyRevenue": 2380000,
-        "dailyQty": 116
+        "dailyRevenue": 6170000,
+        "dailyQty": 136
       },
       {
         "brand": "데이타민",
         "name": "칼마디K2 미네랄",
-        "dailyRevenue": 2160000,
-        "dailyQty": 52
+        "dailyRevenue": 3860000,
+        "dailyQty": 97
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 3370000,
+        "dailyQty": 140
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 2910000,
+        "dailyQty": 127
       }
     ]
   },
@@ -59,13 +59,13 @@
     "orderAlarm": 3,
     "expiryTotal": 16,
     "stockoutRisk": 4,
-    "gonguExpiry": 7,
+    "gonguExpiry": 8,
     "expiry3m": 15,
     "expiry6m": 4,
     "expiry9m": 2,
     "expiry12m": 3,
     "expiry14m": 7,
-    "totalAmount": 3490000000,
+    "totalAmount": 3410000000,
     "skuCount": 75
   },
   "voc": {
