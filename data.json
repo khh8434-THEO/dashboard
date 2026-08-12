@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T09:59:22.824Z",
+  "updatedAt": "2026-08-12T11:00:19.360Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.08.12 17:13",
@@ -43,12 +43,12 @@
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 8월 5일",
-    "weekLabel": "2026년 32주차",
-    "pbMonthShipment": 201000000,
+    "baseDate": "2026년 8월 12일",
+    "weekLabel": "2026년 33주차",
+    "pbMonthShipment": 489000000,
     "pbYtdShipment": null,
-    "gbMonth": 870000000,
-    "gbYtd": 50070000000,
+    "gbMonth": 2390000000,
+    "gbYtd": 51590000000,
     "targetAchievement": null,
     "annualTarget": 55000000000,
     "annualAchievement": "44.0%",
@@ -56,17 +56,17 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": null,
-    "expiryTotal": null,
-    "stockoutRisk": null,
-    "gonguExpiry": null,
-    "expiry3m": null,
-    "expiry6m": null,
-    "expiry9m": null,
-    "expiry12m": null,
-    "expiry14m": null,
-    "totalAmount": null,
-    "skuCount": null
+    "orderAlarm": 2,
+    "expiryTotal": 18,
+    "stockoutRisk": 3,
+    "gonguExpiry": 7,
+    "expiry3m": 15,
+    "expiry6m": 4,
+    "expiry9m": 2,
+    "expiry12m": 5,
+    "expiry14m": 7,
+    "totalAmount": 3490000000,
+    "skuCount": 75
   },
   "voc": {
     "ok": true,
