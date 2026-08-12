@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T01:27:06.657Z",
+  "updatedAt": "2026-08-12T04:02:35.938Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.08.11 16:44",
@@ -58,7 +58,7 @@
     "ok": true,
     "orderAlarm": 2,
     "expiryTotal": 18,
-    "stockoutRisk": 4,
+    "stockoutRisk": 3,
     "gonguExpiry": 7,
     "expiry3m": 15,
     "expiry6m": 4,
