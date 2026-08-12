@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-12T08:13:39.471Z",
+  "updatedAt": "2026-08-12T09:59:22.824Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.11 16:44",
-    "period": "8월 1일 ~ 10일",
-    "todayRevenue": 61580000,
-    "monthRevenue": 600000000,
-    "ytdRevenue": 13700000000,
-    "monthForecast": 1860000000,
+    "lastUpdate": "2026.08.12 17:13",
+    "period": "8월 1일 ~ 11일",
+    "todayRevenue": 44960000,
+    "monthRevenue": 650000000,
+    "ytdRevenue": 13740000000,
+    "monthForecast": 1820000000,
     "top5": [
-      {
-        "brand": "파이토알엑스",
-        "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 14630000,
-        "dailyQty": 204
-      },
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 14050000,
-        "dailyQty": 420
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 5100000,
-        "dailyQty": 518
+        "dailyRevenue": 7270000,
+        "dailyQty": 172
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 4550000,
-        "dailyQty": 189
+        "dailyRevenue": 5920000,
+        "dailyQty": 246
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 5510000,
+        "dailyQty": 219
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 4700000,
+        "dailyQty": 197
       },
       {
         "brand": "YDY뉴트리션",
         "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 3710000,
-        "dailyQty": 103
+        "dailyRevenue": 3670000,
+        "dailyQty": 79
       }
     ]
   },
@@ -56,17 +56,17 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 2,
-    "expiryTotal": 18,
-    "stockoutRisk": 3,
-    "gonguExpiry": 7,
-    "expiry3m": 15,
-    "expiry6m": 4,
-    "expiry9m": 2,
-    "expiry12m": 5,
-    "expiry14m": 7,
-    "totalAmount": 3490000000,
-    "skuCount": 75
+    "orderAlarm": null,
+    "expiryTotal": null,
+    "stockoutRisk": null,
+    "gonguExpiry": null,
+    "expiry3m": null,
+    "expiry6m": null,
+    "expiry9m": null,
+    "expiry12m": null,
+    "expiry14m": null,
+    "totalAmount": null,
+    "skuCount": null
   },
   "voc": {
     "ok": true,
