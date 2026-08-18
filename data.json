@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-18T04:31:10.195Z",
+  "updatedAt": "2026-08-18T05:24:22.439Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.13 17:55",
-    "period": "8월 1일 ~ 12일",
-    "todayRevenue": 26220000,
-    "monthRevenue": 670000000,
-    "ytdRevenue": 13770000000,
-    "monthForecast": 1730000000,
+    "lastUpdate": "2026.08.18 13:47",
+    "period": "8월 1일 ~ 17일",
+    "todayRevenue": 32860000,
+    "monthRevenue": 900000000,
+    "ytdRevenue": 14000000000,
+    "monthForecast": 1650000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 5600000,
+        "dailyQty": 139
+      },
+      {
+        "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 4650000,
-        "dailyQty": 848
+        "dailyRevenue": 3900000,
+        "dailyQty": 183
       },
       {
         "brand": "YDY뉴트리션",
         "name": "액티브비큐텐",
-        "dailyRevenue": 3040000,
-        "dailyQty": 264
+        "dailyRevenue": 3060000,
+        "dailyQty": 117
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 2780000,
-        "dailyQty": 62
-      },
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 2020000,
-        "dailyQty": 85
+        "name": "퓨어 레드큐민",
+        "dailyRevenue": 2540000,
+        "dailyQty": 107
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 1540000,
-        "dailyQty": 37
+        "name": "마그듀오 K2",
+        "dailyRevenue": 2510000,
+        "dailyQty": 135
       }
     ]
   },
@@ -56,7 +56,7 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 3,
+    "orderAlarm": 2,
     "expiryTotal": 18,
     "stockoutRisk": 2,
     "gonguExpiry": 7,
@@ -65,7 +65,7 @@
     "expiry9m": 2,
     "expiry12m": 5,
     "expiry14m": 7,
-    "totalAmount": 3460000000,
+    "totalAmount": 3580000000,
     "skuCount": 75
   },
   "voc": {
