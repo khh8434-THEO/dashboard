@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-21T06:38:19.722Z",
+  "updatedAt": "2026-08-21T07:39:27.064Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.20 18:47",
-    "period": "8월 1일 ~ 19일",
-    "todayRevenue": 48630000,
-    "monthRevenue": 1010000000,
-    "ytdRevenue": 14120000000,
-    "monthForecast": 1640000000,
+    "lastUpdate": "2026.08.21 15:51",
+    "period": "8월 1일 ~ 20일",
+    "todayRevenue": 33040000,
+    "monthRevenue": 1040000000,
+    "ytdRevenue": 14150000000,
+    "monthForecast": 1610000000,
     "top5": [
       {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 슈퍼플러스 100",
-        "dailyRevenue": 8400000,
-        "dailyQty": 300
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 5070000,
+        "dailyQty": 438
       },
       {
         "brand": "데이타민",
         "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 6120000,
-        "dailyQty": 366
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 6080000,
-        "dailyQty": 159
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 5770000,
-        "dailyQty": 269
+        "dailyRevenue": 4450000,
+        "dailyQty": 266
       },
       {
         "brand": "YDY뉴트리션",
         "name": "액티브비큐텐",
-        "dailyRevenue": 3230000,
-        "dailyQty": 146
+        "dailyRevenue": 3490000,
+        "dailyQty": 185
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "마그듀오 K2",
+        "dailyRevenue": 3400000,
+        "dailyQty": 283
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 2470000,
+        "dailyQty": 62
       }
     ]
   },
@@ -56,7 +56,7 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 2,
+    "orderAlarm": 3,
     "expiryTotal": 18,
     "stockoutRisk": 2,
     "gonguExpiry": 7,
