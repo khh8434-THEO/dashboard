@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-24T05:34:32.300Z",
+  "updatedAt": "2026-08-24T06:48:06.758Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.21 15:51",
-    "period": "8월 1일 ~ 20일",
-    "todayRevenue": 33040000,
-    "monthRevenue": 1040000000,
-    "ytdRevenue": 14150000000,
-    "monthForecast": 1610000000,
+    "lastUpdate": "2026.08.24 15:09",
+    "period": "8월 1일 ~ 24일",
+    "todayRevenue": 24540000,
+    "monthRevenue": 1130000000,
+    "ytdRevenue": 14240000000,
+    "monthForecast": 1460000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 5070000,
-        "dailyQty": 438
+        "dailyRevenue": 3760000,
+        "dailyQty": 168
       },
       {
         "brand": "데이타민",
         "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 4450000,
-        "dailyQty": 266
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 3490000,
-        "dailyQty": 185
+        "dailyRevenue": 2540000,
+        "dailyQty": 143
       },
       {
         "brand": "YDY뉴트리션",
         "name": "마그듀오 K2",
-        "dailyRevenue": 3400000,
-        "dailyQty": 283
+        "dailyRevenue": 2300000,
+        "dailyQty": 117
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 2470000,
-        "dailyQty": 62
+        "name": "액티브비큐텐",
+        "dailyRevenue": 1970000,
+        "dailyQty": 74
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 1520000,
+        "dailyQty": 33
       }
     ]
   },
@@ -56,16 +56,16 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 2,
+    "orderAlarm": 3,
     "expiryTotal": 17,
-    "stockoutRisk": 2,
+    "stockoutRisk": 3,
     "gonguExpiry": 6,
-    "expiry3m": 14,
+    "expiry3m": 13,
     "expiry6m": 5,
     "expiry9m": 0,
     "expiry12m": 6,
     "expiry14m": 5,
-    "totalAmount": 3490000000,
+    "totalAmount": 3470000000,
     "skuCount": 75
   },
   "voc": {
