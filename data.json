@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-25T07:41:30.111Z",
+  "updatedAt": "2026-08-25T08:36:47.789Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.24 15:09",
+    "lastUpdate": "2026.08.25 17:24",
     "period": "8월 1일 ~ 24일",
-    "todayRevenue": 24540000,
-    "monthRevenue": 1130000000,
-    "ytdRevenue": 14240000000,
-    "monthForecast": 1460000000,
+    "todayRevenue": 30030000,
+    "monthRevenue": 1140000000,
+    "ytdRevenue": 14250000000,
+    "monthForecast": 1470000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3760000,
-        "dailyQty": 168
+        "dailyRevenue": 4800000,
+        "dailyQty": 191
       },
       {
         "brand": "데이타민",
         "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 2540000,
-        "dailyQty": 143
+        "dailyRevenue": 3110000,
+        "dailyQty": 182
       },
       {
         "brand": "YDY뉴트리션",
         "name": "마그듀오 K2",
-        "dailyRevenue": 2300000,
-        "dailyQty": 117
+        "dailyRevenue": 2330000,
+        "dailyQty": 128
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 1970000,
-        "dailyQty": 74
+        "name": "썬 비타민D3 & K2",
+        "dailyRevenue": 1840000,
+        "dailyQty": 119
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 1520000,
-        "dailyQty": 33
+        "name": "오큐클리어",
+        "dailyRevenue": 1810000,
+        "dailyQty": 77
       }
     ]
   },
@@ -56,17 +56,17 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": null,
-    "expiryTotal": null,
-    "stockoutRisk": null,
-    "gonguExpiry": null,
-    "expiry3m": null,
-    "expiry6m": null,
-    "expiry9m": null,
-    "expiry12m": null,
-    "expiry14m": null,
-    "totalAmount": null,
-    "skuCount": null
+    "orderAlarm": 27,
+    "expiryTotal": 16,
+    "stockoutRisk": 3,
+    "gonguExpiry": 22,
+    "expiry3m": 11,
+    "expiry6m": 5,
+    "expiry9m": 0,
+    "expiry12m": 5,
+    "expiry14m": 5,
+    "totalAmount": 3440000000,
+    "skuCount": 75
   },
   "voc": {
     "ok": true,
