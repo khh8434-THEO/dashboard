@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-26T08:37:39.637Z",
+  "updatedAt": "2026-08-26T09:36:29.367Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.25 17:24",
-    "period": "8월 1일 ~ 24일",
-    "todayRevenue": 30030000,
-    "monthRevenue": 1140000000,
-    "ytdRevenue": 14250000000,
-    "monthForecast": 1470000000,
+    "lastUpdate": "2026.08.26 18:02",
+    "period": "8월 1일 ~ 25일",
+    "todayRevenue": 64510000,
+    "monthRevenue": 1210000000,
+    "ytdRevenue": 14320000000,
+    "monthForecast": 1500000000,
     "top5": [
       {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 26400000,
+        "dailyQty": 1203
+      },
+      {
         "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 4800000,
-        "dailyQty": 191
+        "name": "테라큐민 프라임 70",
+        "dailyRevenue": 4950000,
+        "dailyQty": 189
       },
       {
         "brand": "데이타민",
         "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 3110000,
-        "dailyQty": 182
+        "dailyRevenue": 4050000,
+        "dailyQty": 234
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "마그듀오 K2",
-        "dailyRevenue": 2330000,
-        "dailyQty": 128
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 3970000,
+        "dailyQty": 167
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "썬 비타민D3 & K2",
-        "dailyRevenue": 1840000,
-        "dailyQty": 119
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "오큐클리어",
-        "dailyRevenue": 1810000,
-        "dailyQty": 77
+        "name": "테라큐민 부스터 100",
+        "dailyRevenue": 3240000,
+        "dailyQty": 84
       }
     ]
   },
