@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-27T23:31:18.647Z",
+  "updatedAt": "2026-08-28T08:44:34.341Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.26 18:02",
-    "period": "8월 1일 ~ 25일",
-    "todayRevenue": 64510000,
-    "monthRevenue": 1210000000,
-    "ytdRevenue": 14320000000,
-    "monthForecast": 1500000000,
+    "lastUpdate": "2026.08.28 16:19",
+    "period": "8월 1일 ~ 27일",
+    "todayRevenue": 33740000,
+    "monthRevenue": 1280000000,
+    "ytdRevenue": 14390000000,
+    "monthForecast": 1470000000,
     "top5": [
       {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 26400000,
-        "dailyQty": 1203
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "테라큐민 프라임 70",
-        "dailyRevenue": 4950000,
-        "dailyQty": 189
-      },
-      {
         "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 4050000,
-        "dailyQty": 234
+        "name": "칼마디K2 미네랄",
+        "dailyRevenue": 6040000,
+        "dailyQty": 159
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3970000,
-        "dailyQty": 167
+        "dailyRevenue": 3480000,
+        "dailyQty": 155
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "테라큐민 부스터 100",
-        "dailyRevenue": 3240000,
-        "dailyQty": 84
+        "name": "마그듀오 K2",
+        "dailyRevenue": 2560000,
+        "dailyQty": 141
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 프라임 70",
+        "dailyRevenue": 2370000,
+        "dailyQty": 90
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 1710000,
+        "dailyQty": 29
       }
     ]
   },
@@ -56,16 +56,16 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 3,
+    "orderAlarm": 4,
     "expiryTotal": 18,
     "stockoutRisk": 2,
     "gonguExpiry": 6,
-    "expiry3m": 13,
+    "expiry3m": 14,
     "expiry6m": 5,
     "expiry9m": 0,
     "expiry12m": 6,
     "expiry14m": 6,
-    "totalAmount": 3410000000,
+    "totalAmount": 3570000000,
     "skuCount": 75
   },
   "voc": {
