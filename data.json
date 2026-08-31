@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-08-31T03:11:21.406Z",
+  "updatedAt": "2026-08-31T10:24:59.859Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.08.28 16:19",
-    "period": "8월 1일 ~ 27일",
-    "todayRevenue": 33740000,
-    "monthRevenue": 1280000000,
-    "ytdRevenue": 14390000000,
-    "monthForecast": 1470000000,
+    "lastUpdate": "2026.08.31 18:40",
+    "period": "8월 1일 ~ 30일",
+    "todayRevenue": 28070000,
+    "monthRevenue": 1370000000,
+    "ytdRevenue": 14480000000,
+    "monthForecast": 1420000000,
     "top5": [
       {
-        "brand": "데이타민",
-        "name": "칼마디K2 미네랄",
-        "dailyRevenue": 6040000,
-        "dailyQty": 159
+        "brand": "유트리션",
+        "name": "튼튼 리포좀 비타민C",
+        "dailyRevenue": 3280000,
+        "dailyQty": 236
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3480000,
-        "dailyQty": 155
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "마그듀오 K2",
-        "dailyRevenue": 2560000,
-        "dailyQty": 141
+        "dailyRevenue": 3130000,
+        "dailyQty": 134
       },
       {
         "brand": "YDY뉴트리션",
         "name": "테라큐민 프라임 70",
-        "dailyRevenue": 2370000,
-        "dailyQty": 90
+        "dailyRevenue": 2390000,
+        "dailyQty": 92
       },
       {
-        "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 1710000,
-        "dailyQty": 29
+        "brand": "데이타민",
+        "name": "칼마디K2 미네랄",
+        "dailyRevenue": 2320000,
+        "dailyQty": 59
+      },
+      {
+        "brand": "데이타민",
+        "name": "클린 화이버",
+        "dailyRevenue": 2270000,
+        "dailyQty": 111
       }
     ]
   },
@@ -56,7 +56,7 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 4,
+    "orderAlarm": 5,
     "expiryTotal": 17,
     "stockoutRisk": 1,
     "gonguExpiry": 6,
@@ -65,7 +65,7 @@
     "expiry9m": 0,
     "expiry12m": 6,
     "expiry14m": 5,
-    "totalAmount": 3570000000,
+    "totalAmount": 3490000000,
     "skuCount": 75
   },
   "voc": {
