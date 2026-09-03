@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T12:31:58.146Z",
+  "updatedAt": "2026-09-03T16:53:02.883Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.09.03 16:39",
@@ -57,14 +57,14 @@
   "stock": {
     "ok": true,
     "orderAlarm": 12,
-    "expiryTotal": 16,
-    "stockoutRisk": 5,
+    "expiryTotal": 17,
+    "stockoutRisk": 3,
     "gonguExpiry": 6,
     "expiry3m": 9,
     "expiry6m": 5,
     "expiry9m": 0,
     "expiry12m": 6,
-    "expiry14m": 4,
+    "expiry14m": 5,
     "totalAmount": 3710000000,
     "skuCount": 78
   },
