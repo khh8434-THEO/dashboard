@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-03T02:41:14.339Z",
+  "updatedAt": "2026-09-03T07:41:40.999Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.02 18:55",
-    "period": "9월 1일 ~ 1일",
-    "todayRevenue": 100000000,
-    "monthRevenue": 100000000,
-    "ytdRevenue": 14670000000,
-    "monthForecast": 3100000000,
+    "lastUpdate": "2026.09.03 16:39",
+    "period": "9월 1일 ~ 2일",
+    "todayRevenue": 74250000,
+    "monthRevenue": 180000000,
+    "ytdRevenue": 14740000000,
+    "monthForecast": 2660000000,
     "top5": [
-      {
-        "brand": "박약다식",
-        "name": "D를 담다 츄어블 2000IU",
-        "dailyRevenue": 25370000,
-        "dailyQty": 1858
-      },
       {
         "brand": "유트리션",
         "name": "마시는 마그네슘 200",
-        "dailyRevenue": 13950000,
-        "dailyQty": 1128
+        "dailyRevenue": 11820000,
+        "dailyQty": 967
+      },
+      {
+        "brand": "박약다식",
+        "name": "D를 담다 츄어블 2000IU",
+        "dailyRevenue": 11430000,
+        "dailyQty": 846
+      },
+      {
+        "brand": "데이타민",
+        "name": "초임계 알티지 오메가3 1000",
+        "dailyRevenue": 7280000,
+        "dailyQty": 429
       },
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 9380000,
-        "dailyQty": 236
+        "dailyRevenue": 5600000,
+        "dailyQty": 151
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 7420000,
-        "dailyQty": 339
-      },
-      {
-        "brand": "데이타민",
-        "name": "칼마디K2 미네랄",
-        "dailyRevenue": 6880000,
-        "dailyQty": 185
+        "dailyRevenue": 5130000,
+        "dailyQty": 233
       }
     ]
   },
@@ -58,14 +58,14 @@
     "ok": true,
     "orderAlarm": 12,
     "expiryTotal": 16,
-    "stockoutRisk": 3,
+    "stockoutRisk": 5,
     "gonguExpiry": 6,
     "expiry3m": 9,
     "expiry6m": 5,
     "expiry9m": 0,
     "expiry12m": 6,
     "expiry14m": 4,
-    "totalAmount": 3670000000,
+    "totalAmount": 3710000000,
     "skuCount": 78
   },
   "voc": {
