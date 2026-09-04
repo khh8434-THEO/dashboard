@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T14:44:11.187Z",
+  "updatedAt": "2026-09-04T18:01:22.832Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.09.04 19:22",
@@ -63,8 +63,8 @@
     "expiry3m": 9,
     "expiry6m": 5,
     "expiry9m": 0,
-    "expiry12m": 6,
-    "expiry14m": 6,
+    "expiry12m": 7,
+    "expiry14m": 5,
     "totalAmount": 3640000000,
     "skuCount": 78
   },
