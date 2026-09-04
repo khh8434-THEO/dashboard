@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-04T05:24:18.981Z",
+  "updatedAt": "2026-09-04T10:30:55.339Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.03 16:39",
-    "period": "9월 1일 ~ 2일",
-    "todayRevenue": 74250000,
-    "monthRevenue": 180000000,
-    "ytdRevenue": 14740000000,
-    "monthForecast": 2660000000,
+    "lastUpdate": "2026.09.04 19:22",
+    "period": "9월 1일 ~ 4일",
+    "todayRevenue": 68520000,
+    "monthRevenue": 280000000,
+    "ytdRevenue": 14840000000,
+    "monthForecast": 2080000000,
     "top5": [
+      {
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 12780000,
+        "dailyQty": 378
+      },
       {
         "brand": "유트리션",
         "name": "마시는 마그네슘 200",
-        "dailyRevenue": 11820000,
-        "dailyQty": 967
+        "dailyRevenue": 8830000,
+        "dailyQty": 707
       },
       {
         "brand": "박약다식",
         "name": "D를 담다 츄어블 2000IU",
-        "dailyRevenue": 11430000,
-        "dailyQty": 846
-      },
-      {
-        "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 7280000,
-        "dailyQty": 429
+        "dailyRevenue": 6140000,
+        "dailyQty": 456
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 5600000,
-        "dailyQty": 151
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 5060000,
+        "dailyQty": 116
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 5130000,
-        "dailyQty": 233
+        "dailyRevenue": 5000000,
+        "dailyQty": 287
       }
     ]
   },
@@ -56,16 +56,16 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 12,
-    "expiryTotal": 17,
-    "stockoutRisk": 3,
+    "orderAlarm": 11,
+    "expiryTotal": 18,
+    "stockoutRisk": 5,
     "gonguExpiry": 6,
     "expiry3m": 9,
     "expiry6m": 5,
     "expiry9m": 0,
     "expiry12m": 6,
-    "expiry14m": 5,
-    "totalAmount": 3630000000,
+    "expiry14m": 6,
+    "totalAmount": 3640000000,
     "skuCount": 78
   },
   "voc": {
