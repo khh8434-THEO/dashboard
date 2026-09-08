@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-08T07:46:06.979Z",
+  "updatedAt": "2026-09-08T12:34:40.927Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.07 18:46",
-    "period": "9월 1일 ~ 6일",
-    "todayRevenue": 46610000,
-    "monthRevenue": 420000000,
-    "ytdRevenue": 14980000000,
-    "monthForecast": 2080000000,
+    "lastUpdate": "2026.09.08 18:40",
+    "period": "9월 1일 ~ 7일",
+    "todayRevenue": 79680000,
+    "monthRevenue": 500000000,
+    "ytdRevenue": 15060000000,
+    "monthForecast": 2130000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
         "name": "피크노제놀 큐텐",
-        "dailyRevenue": 11010000,
-        "dailyQty": 257
+        "dailyRevenue": 16680000,
+        "dailyQty": 398
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 4280000,
-        "dailyQty": 201
-      },
-      {
-        "brand": "박약다식",
-        "name": "D를 담다 츄어블 2000IU",
-        "dailyRevenue": 3820000,
-        "dailyQty": 283
+        "name": "테라큐민 프라임 70",
+        "dailyRevenue": 6440000,
+        "dailyQty": 255
       },
       {
         "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 3620000,
-        "dailyQty": 215
+        "name": "활성형엽산 800",
+        "dailyRevenue": 5550000,
+        "dailyQty": 421
       },
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 3320000,
-        "dailyQty": 77
+        "dailyRevenue": 5160000,
+        "dailyQty": 143
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 4770000,
+        "dailyQty": 140
       }
     ]
   },
@@ -56,11 +56,11 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 10,
+    "orderAlarm": 11,
     "expiryTotal": 18,
     "stockoutRisk": 2,
-    "gonguExpiry": 6,
-    "expiry3m": 12,
+    "gonguExpiry": 7,
+    "expiry3m": 11,
     "expiry6m": 5,
     "expiry9m": 0,
     "expiry12m": 7,
