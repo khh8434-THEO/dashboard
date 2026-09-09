@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-09T07:48:38.094Z",
+  "updatedAt": "2026-09-09T12:40:21.916Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.08 18:40",
-    "period": "9월 1일 ~ 7일",
-    "todayRevenue": 79680000,
-    "monthRevenue": 500000000,
-    "ytdRevenue": 15060000000,
-    "monthForecast": 2130000000,
+    "lastUpdate": "2026.09.09 18:36",
+    "period": "9월 1일 ~ 8일",
+    "todayRevenue": 69080000,
+    "monthRevenue": 570000000,
+    "ytdRevenue": 15130000000,
+    "monthForecast": 2120000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
         "name": "피크노제놀 큐텐",
-        "dailyRevenue": 16680000,
-        "dailyQty": 398
+        "dailyRevenue": 15250000,
+        "dailyQty": 359
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "테라큐민 프라임 70",
-        "dailyRevenue": 6440000,
-        "dailyQty": 255
-      },
-      {
-        "brand": "데이타민",
-        "name": "활성형엽산 800",
-        "dailyRevenue": 5550000,
-        "dailyQty": 421
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 5160000,
-        "dailyQty": 143
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 7080000,
+        "dailyQty": 434
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 4770000,
-        "dailyQty": 140
+        "dailyRevenue": 5980000,
+        "dailyQty": 190
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 4710000,
+        "dailyQty": 255
+      },
+      {
+        "brand": "데이타민",
+        "name": "초임계 알티지 오메가3 1000",
+        "dailyRevenue": 4330000,
+        "dailyQty": 284
       }
     ]
   },
@@ -56,7 +56,7 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 10,
+    "orderAlarm": 11,
     "expiryTotal": 18,
     "stockoutRisk": 2,
     "gonguExpiry": 8,
@@ -65,7 +65,7 @@
     "expiry9m": 0,
     "expiry12m": 7,
     "expiry14m": 5,
-    "totalAmount": 3790000000,
+    "totalAmount": 3770000000,
     "skuCount": 77
   },
   "voc": {
