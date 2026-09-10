@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T22:12:28.413Z",
+  "updatedAt": "2026-09-10T00:47:10.149Z",
   "daily": {
     "ok": true,
     "lastUpdate": "2026.09.09 18:36",
@@ -43,15 +43,15 @@
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 9월 2일",
-    "weekLabel": "2026년 36주차",
-    "pbMonthShipment": 133000000,
+    "baseDate": "2026년 9월 9일",
+    "weekLabel": "2026년 37주차",
+    "pbMonthShipment": 509000000,
     "pbYtdShipment": null,
-    "gbMonth": 630000000,
-    "gbYtd": 57000000000,
+    "gbMonth": 2370000000,
+    "gbYtd": 58740000000,
     "targetAchievement": null,
     "annualTarget": 55000000000,
-    "annualAchievement": "50.9%",
+    "annualAchievement": "51.6%",
     "period": "2026년 누적"
   },
   "stock": {
