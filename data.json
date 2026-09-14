@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-14T05:42:27.440Z",
+  "updatedAt": "2026-09-14T11:36:27.892Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.11 18:43",
-    "period": "9월 1일 ~ 11일",
-    "todayRevenue": 94690000,
-    "monthRevenue": 790000000,
-    "ytdRevenue": 15350000000,
-    "monthForecast": 2150000000,
+    "lastUpdate": "2026.09.14 17:41",
+    "period": "9월 1일 ~ 13일",
+    "todayRevenue": 60440000,
+    "monthRevenue": 930000000,
+    "ytdRevenue": 15490000000,
+    "monthForecast": 2140000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 20090000,
-        "dailyQty": 570
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 9600000,
+        "dailyQty": 218
       },
       {
         "brand": "파이토알엑스",
         "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 15290000,
-        "dailyQty": 178
+        "dailyRevenue": 7480000,
+        "dailyQty": 83
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 13770000,
-        "dailyQty": 320
-      },
-      {
-        "brand": "파이토알엑스",
-        "name": "트리플 아르기닌 액티브",
-        "dailyRevenue": 4670000,
-        "dailyQty": 216
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 6240000,
+        "dailyQty": 177
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 4520000,
-        "dailyQty": 362
+        "name": "폴라초임계오메가3 밸류팩",
+        "dailyRevenue": 6140000,
+        "dailyQty": 182
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "코랄칼마디 K2",
+        "dailyRevenue": 5000000,
+        "dailyQty": 233
       }
     ]
   },
@@ -65,7 +65,7 @@
     "expiry9m": 0,
     "expiry12m": 7,
     "expiry14m": 5,
-    "totalAmount": 3670000000,
+    "totalAmount": 3600000000,
     "skuCount": 77
   },
   "voc": {
