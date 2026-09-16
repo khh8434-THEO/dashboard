@@ -1,57 +1,57 @@
 {
-  "updatedAt": "2026-09-16T05:54:13.336Z",
+  "updatedAt": "2026-09-16T10:45:39.129Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.15 17:51",
-    "period": "9월 1일 ~ 14일",
+    "lastUpdate": "2026.09.16 18:39",
+    "period": "9월 1일 ~ 15일",
     "todayRevenue": 110000000,
-    "monthRevenue": 1040000000,
-    "ytdRevenue": 15600000000,
-    "monthForecast": 2220000000,
+    "monthRevenue": 1140000000,
+    "ytdRevenue": 15710000000,
+    "monthForecast": 2280000000,
     "top5": [
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 13200000,
-        "dailyQty": 600
+        "dailyRevenue": 37000000,
+        "dailyQty": 1568
       },
       {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 11210000,
-        "dailyQty": 333
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 슈퍼플러스 100",
+        "dailyRevenue": 13290000,
+        "dailyQty": 388
       },
       {
         "brand": "파이토알엑스",
         "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 11050000,
-        "dailyQty": 137
+        "dailyRevenue": 11500000,
+        "dailyQty": 145
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 10250000,
-        "dailyQty": 705
+        "dailyRevenue": 4780000,
+        "dailyQty": 212
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 9850000,
-        "dailyQty": 403
+        "name": "코랄칼마디 K2",
+        "dailyRevenue": 4580000,
+        "dailyQty": 230
       }
     ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 9월 9일",
-    "weekLabel": "2026년 37주차",
-    "pbMonthShipment": 509000000,
+    "baseDate": "2026년 9월 16일",
+    "weekLabel": "2026년 38주차",
+    "pbMonthShipment": 1069000000,
     "pbYtdShipment": null,
-    "gbMonth": 2370000000,
-    "gbYtd": 58740000000,
+    "gbMonth": 4200000000,
+    "gbYtd": 60570000000,
     "targetAchievement": null,
     "annualTarget": 55000000000,
-    "annualAchievement": "51.6%",
+    "annualAchievement": "52.6%",
     "period": "2026년 누적"
   },
   "stock": {
@@ -60,12 +60,12 @@
     "expiryTotal": 17,
     "stockoutRisk": 2,
     "gonguExpiry": 8,
-    "expiry3m": 12,
+    "expiry3m": 11,
     "expiry6m": 5,
     "expiry9m": 0,
     "expiry12m": 6,
     "expiry14m": 5,
-    "totalAmount": 3890000000,
+    "totalAmount": 3980000000,
     "skuCount": 77
   },
   "voc": {
