@@ -1,45 +1,14 @@
 {
-  "updatedAt": "2026-09-18T07:55:46.750Z",
+  "updatedAt": "2026-09-18T12:39:12.449Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.16 18:39",
-    "period": "9월 1일 ~ 15일",
-    "todayRevenue": 110000000,
-    "monthRevenue": 1140000000,
-    "ytdRevenue": 15710000000,
-    "monthForecast": 2280000000,
-    "top5": [
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 37000000,
-        "dailyQty": 1568
-      },
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 슈퍼플러스 100",
-        "dailyRevenue": 13290000,
-        "dailyQty": 388
-      },
-      {
-        "brand": "파이토알엑스",
-        "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 11500000,
-        "dailyQty": 145
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 4780000,
-        "dailyQty": 212
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "코랄칼마디 K2",
-        "dailyRevenue": 4580000,
-        "dailyQty": 230
-      }
-    ]
+    "lastUpdate": "2026.09.18 18:25",
+    "period": "9월 1일 ~ 17일",
+    "todayRevenue": 0,
+    "monthRevenue": 1200000000,
+    "ytdRevenue": 15770000000,
+    "monthForecast": 2120000000,
+    "top5": []
   },
   "weekly": {
     "ok": true,
