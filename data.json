@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-21T05:49:56.772Z",
+  "updatedAt": "2026-09-21T11:49:37.010Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.21 09:36",
+    "lastUpdate": "2026.09.21 17:58",
     "period": "9월 1일 ~ 17일",
     "todayRevenue": 0,
     "monthRevenue": 1200000000,
@@ -25,7 +25,7 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 3,
+    "orderAlarm": 4,
     "expiryTotal": 18,
     "stockoutRisk": 1,
     "gonguExpiry": 8,
@@ -34,7 +34,7 @@
     "expiry9m": 2,
     "expiry12m": 6,
     "expiry14m": 6,
-    "totalAmount": 3850000000,
+    "totalAmount": 3810000000,
     "skuCount": 79
   },
   "voc": {
