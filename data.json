@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T22:55:11.431Z",
+  "updatedAt": "2026-09-21T00:47:58.231Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.18 18:25",
+    "lastUpdate": "2026.09.21 09:36",
     "period": "9월 1일 ~ 17일",
     "todayRevenue": 0,
     "monthRevenue": 1200000000,
@@ -34,7 +34,7 @@
     "expiry9m": 2,
     "expiry12m": 6,
     "expiry14m": 6,
-    "totalAmount": 3950000000,
+    "totalAmount": 3850000000,
     "skuCount": 79
   },
   "voc": {
