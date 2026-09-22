@@ -1,14 +1,45 @@
 {
-  "updatedAt": "2026-09-22T05:47:37.150Z",
+  "updatedAt": "2026-09-22T10:51:25.722Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.21 17:58",
-    "period": "9월 1일 ~ 17일",
-    "todayRevenue": 0,
-    "monthRevenue": 1200000000,
-    "ytdRevenue": 15770000000,
-    "monthForecast": 2120000000,
-    "top5": []
+    "lastUpdate": "2026.09.22 19:31",
+    "period": "9월 1일 ~ 21일",
+    "todayRevenue": 49150000,
+    "monthRevenue": 1440000000,
+    "ytdRevenue": 16000000000,
+    "monthForecast": 2050000000,
+    "top5": [
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 7840000,
+        "dailyQty": 332
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 5610000,
+        "dailyQty": 472
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 슈퍼플러스 100",
+        "dailyRevenue": 4230000,
+        "dailyQty": 124
+      },
+      {
+        "brand": "데이타민",
+        "name": "활성형엽산 800",
+        "dailyRevenue": 2960000,
+        "dailyQty": 241
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 2580000,
+        "dailyQty": 94
+      }
+    ]
   },
   "weekly": {
     "ok": true,
@@ -26,15 +57,15 @@
   "stock": {
     "ok": true,
     "orderAlarm": 1,
-    "expiryTotal": 18,
+    "expiryTotal": 19,
     "stockoutRisk": 1,
     "gonguExpiry": 8,
-    "expiry3m": 11,
-    "expiry6m": 4,
+    "expiry3m": 10,
+    "expiry6m": 5,
     "expiry9m": 2,
     "expiry12m": 6,
     "expiry14m": 6,
-    "totalAmount": 3810000000,
+    "totalAmount": 3910000000,
     "skuCount": 79
   },
   "voc": {
