@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-09-29T03:54:33.567Z",
+  "updatedAt": "2026-09-29T10:22:08.527Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.28 18:22",
-    "period": "9월 1일 ~ 27일",
-    "todayRevenue": 27770000,
-    "monthRevenue": 1600000000,
-    "ytdRevenue": 16160000000,
-    "monthForecast": 1770000000,
+    "lastUpdate": "2026.09.29 18:55",
+    "period": "9월 1일 ~ 28일",
+    "todayRevenue": 72360000,
+    "monthRevenue": 1670000000,
+    "ytdRevenue": 16230000000,
+    "monthForecast": 1790000000,
     "top5": [
+      {
+        "brand": "데이타민",
+        "name": "초임계 알티지 오메가3 1000",
+        "dailyRevenue": 24270000,
+        "dailyQty": 1515
+      },
+      {
+        "brand": "데이타민",
+        "name": "칼마디K2 미네랄",
+        "dailyRevenue": 11110000,
+        "dailyQty": 296
+      },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 3380000,
-        "dailyQty": 142
+        "dailyRevenue": 4770000,
+        "dailyQty": 206
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3260000,
-        "dailyQty": 135
-      },
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 슈퍼플러스 100",
-        "dailyRevenue": 2100000,
-        "dailyQty": 61
+        "dailyRevenue": 4350000,
+        "dailyQty": 190
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 1780000,
-        "dailyQty": 34
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "코랄칼마디 K2",
-        "dailyRevenue": 1530000,
-        "dailyQty": 69
+        "name": "퓨어 리포좀 글루타치온",
+        "dailyRevenue": 3130000,
+        "dailyQty": 139
       }
     ]
   },
@@ -56,16 +56,16 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 2,
+    "orderAlarm": 3,
     "expiryTotal": 17,
-    "stockoutRisk": 2,
+    "stockoutRisk": 3,
     "gonguExpiry": 7,
     "expiry3m": 10,
     "expiry6m": 5,
     "expiry9m": 0,
     "expiry12m": 6,
     "expiry14m": 5,
-    "totalAmount": 3850000000,
+    "totalAmount": 4030000000,
     "skuCount": 80
   },
   "voc": {
