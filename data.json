@@ -1,57 +1,57 @@
 {
-  "updatedAt": "2026-09-30T06:31:20.515Z",
+  "updatedAt": "2026-09-30T13:19:59.705Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.29 18:55",
-    "period": "9월 1일 ~ 28일",
-    "todayRevenue": 72360000,
-    "monthRevenue": 1670000000,
-    "ytdRevenue": 16230000000,
-    "monthForecast": 1790000000,
+    "lastUpdate": "2026.09.30 18:40",
+    "period": "9월 1일 ~ 29일",
+    "todayRevenue": 44720000,
+    "monthRevenue": 1710000000,
+    "ytdRevenue": 16280000000,
+    "monthForecast": 1770000000,
     "top5": [
       {
         "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 24270000,
-        "dailyQty": 1515
-      },
-      {
-        "brand": "데이타민",
         "name": "칼마디K2 미네랄",
-        "dailyRevenue": 11110000,
-        "dailyQty": 296
-      },
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 4770000,
-        "dailyQty": 206
+        "dailyRevenue": 7440000,
+        "dailyQty": 196
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 4350000,
-        "dailyQty": 190
+        "dailyRevenue": 5080000,
+        "dailyQty": 226
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 2970000,
+        "dailyQty": 124
+      },
+      {
+        "brand": "데이타민",
+        "name": "활성형엽산 800",
+        "dailyRevenue": 2780000,
+        "dailyQty": 210
       },
       {
         "brand": "YDY뉴트리션",
         "name": "퓨어 리포좀 글루타치온",
-        "dailyRevenue": 3130000,
-        "dailyQty": 139
+        "dailyRevenue": 2750000,
+        "dailyQty": 116
       }
     ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 9월 16일",
-    "weekLabel": "2026년 38주차",
-    "pbMonthShipment": 1069000000,
+    "baseDate": "2026년 9월 30일",
+    "weekLabel": "2026년 40주차",
+    "pbMonthShipment": 1521000000,
     "pbYtdShipment": null,
-    "gbMonth": 4200000000,
-    "gbYtd": 60570000000,
+    "gbMonth": 7150000000,
+    "gbYtd": 63530000000,
     "targetAchievement": null,
     "annualTarget": 55000000000,
-    "annualAchievement": "52.6%",
+    "annualAchievement": "53.4%",
     "period": "2026년 누적"
   },
   "stock": {
@@ -59,7 +59,7 @@
     "orderAlarm": 3,
     "expiryTotal": 15,
     "stockoutRisk": 3,
-    "gonguExpiry": 6,
+    "gonguExpiry": 5,
     "expiry3m": 11,
     "expiry6m": 4,
     "expiry9m": 0,
