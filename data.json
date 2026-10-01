@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-01T08:13:44.689Z",
+  "updatedAt": "2026-10-01T15:59:00.023Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.09.30 18:40",
-    "period": "9월 1일 ~ 29일",
-    "todayRevenue": 44720000,
-    "monthRevenue": 1710000000,
-    "ytdRevenue": 16280000000,
-    "monthForecast": 1770000000,
+    "lastUpdate": "2026.10.01 19:05",
+    "period": "9월 1일 ~ 30일",
+    "todayRevenue": 36120000,
+    "monthRevenue": 1750000000,
+    "ytdRevenue": 16310000000,
+    "monthForecast": 1750000000,
     "top5": [
       {
         "brand": "데이타민",
-        "name": "칼마디K2 미네랄",
-        "dailyRevenue": 7440000,
-        "dailyQty": 196
+        "name": "클린 화이버",
+        "dailyRevenue": 6200000,
+        "dailyQty": 297
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 5080000,
-        "dailyQty": 226
+        "dailyRevenue": 3450000,
+        "dailyQty": 144
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 2970000,
-        "dailyQty": 124
-      },
-      {
-        "brand": "데이타민",
-        "name": "활성형엽산 800",
-        "dailyRevenue": 2780000,
-        "dailyQty": 210
+        "dailyRevenue": 2910000,
+        "dailyQty": 122
       },
       {
         "brand": "YDY뉴트리션",
         "name": "퓨어 리포좀 글루타치온",
-        "dailyRevenue": 2750000,
-        "dailyQty": 116
+        "dailyRevenue": 2130000,
+        "dailyQty": 91
+      },
+      {
+        "brand": "데이타민",
+        "name": "칼마디K2 미네랄",
+        "dailyRevenue": 2100000,
+        "dailyQty": 53
       }
     ]
   },
