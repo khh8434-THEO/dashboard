@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-02T06:37:04.233Z",
+  "updatedAt": "2026-10-02T13:30:49.378Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.01 19:05",
-    "period": "9월 1일 ~ 30일",
-    "todayRevenue": 36120000,
-    "monthRevenue": 1750000000,
-    "ytdRevenue": 16310000000,
-    "monthForecast": 1750000000,
+    "lastUpdate": "2026.10.02 19:59",
+    "period": "10월 1일 ~ 1일",
+    "todayRevenue": 64760000,
+    "monthRevenue": 64760000,
+    "ytdRevenue": 16380000000,
+    "monthForecast": 2010000000,
     "top5": [
       {
-        "brand": "데이타민",
-        "name": "클린 화이버",
-        "dailyRevenue": 6200000,
-        "dailyQty": 297
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 10810000,
+        "dailyQty": 454
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3 밸류팩",
+        "dailyRevenue": 7710000,
+        "dailyQty": 229
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3450000,
-        "dailyQty": 144
-      },
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 2910000,
-        "dailyQty": 122
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "퓨어 리포좀 글루타치온",
-        "dailyRevenue": 2130000,
-        "dailyQty": 91
+        "dailyRevenue": 5920000,
+        "dailyQty": 271
       },
       {
         "brand": "데이타민",
         "name": "칼마디K2 미네랄",
-        "dailyRevenue": 2100000,
-        "dailyQty": 53
+        "dailyRevenue": 5140000,
+        "dailyQty": 139
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 슈퍼플러스 100",
+        "dailyRevenue": 3880000,
+        "dailyQty": 115
       }
     ]
   },
@@ -56,11 +56,11 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 3,
+    "orderAlarm": 4,
     "expiryTotal": 14,
     "stockoutRisk": 2,
     "gonguExpiry": 8,
-    "expiry3m": 10,
+    "expiry3m": 9,
     "expiry6m": 3,
     "expiry9m": 0,
     "expiry12m": 6,
