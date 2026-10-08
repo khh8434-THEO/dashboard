@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-08T02:25:28.463Z",
+  "updatedAt": "2026-10-08T09:52:21.408Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.07 19:04",
-    "period": "10월 1일 ~ 6일",
-    "todayRevenue": 100000000,
-    "monthRevenue": 440000000,
-    "ytdRevenue": 16750000000,
-    "monthForecast": 2260000000,
+    "lastUpdate": "2026.10.08 18:23",
+    "period": "10월 1일 ~ 8일",
+    "todayRevenue": 79590000,
+    "monthRevenue": 560000000,
+    "ytdRevenue": 16880000000,
+    "monthForecast": 2180000000,
     "top5": [
-      {
-        "brand": "YDY뉴트리션",
-        "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 23260000,
-        "dailyQty": 569
-      },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 14100000,
-        "dailyQty": 592
+        "dailyRevenue": 24080000,
+        "dailyQty": 1056
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "유한 YDY 혈당케어 여주",
+        "dailyRevenue": 11430000,
+        "dailyQty": 252
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 슈퍼플러스 100",
+        "dailyRevenue": 5680000,
+        "dailyQty": 176
       },
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 8800000,
-        "dailyQty": 227
+        "dailyRevenue": 4670000,
+        "dailyQty": 118
       },
       {
-        "brand": "파이토알엑스",
-        "name": "리얼 빌베리 베타글루칸",
-        "dailyRevenue": 6650000,
-        "dailyQty": 294
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 5830000,
-        "dailyQty": 307
+        "brand": "데이타민",
+        "name": "칼마디K2 미네랄",
+        "dailyRevenue": 4180000,
+        "dailyQty": 125
       }
     ]
   },
@@ -56,16 +56,16 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 3,
+    "orderAlarm": 4,
     "expiryTotal": 15,
-    "stockoutRisk": null,
-    "gonguExpiry": 6,
+    "stockoutRisk": 1,
+    "gonguExpiry": 7,
     "expiry3m": 11,
     "expiry6m": 2,
     "expiry9m": 0,
     "expiry12m": 6,
     "expiry14m": 5,
-    "totalAmount": 3570000000,
+    "totalAmount": 3480000000,
     "skuCount": 78
   },
   "voc": {
