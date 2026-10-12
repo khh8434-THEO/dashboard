@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-12T06:53:30.316Z",
+  "updatedAt": "2026-10-12T16:25:46.249Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.08 18:23",
-    "period": "10월 1일 ~ 8일",
-    "todayRevenue": 79590000,
-    "monthRevenue": 560000000,
-    "ytdRevenue": 16880000000,
-    "monthForecast": 2180000000,
+    "lastUpdate": "2026.10.12 17:33",
+    "period": "10월 1일 ~ 11일",
+    "todayRevenue": 35910000,
+    "monthRevenue": 770000000,
+    "ytdRevenue": 17080000000,
+    "monthForecast": 2170000000,
     "top5": [
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 24080000,
-        "dailyQty": 1056
-      },
       {
         "brand": "YDY뉴트리션",
         "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 11430000,
-        "dailyQty": 252
+        "dailyRevenue": 5130000,
+        "dailyQty": 114
       },
       {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 슈퍼플러스 100",
-        "dailyRevenue": 5680000,
-        "dailyQty": 176
+        "brand": "유트리션",
+        "name": "튼튼 리포좀 비타민C",
+        "dailyRevenue": 4560000,
+        "dailyQty": 321
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 4670000,
-        "dailyQty": 118
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 3460000,
+        "dailyQty": 178
       },
       {
         "brand": "데이타민",
         "name": "칼마디K2 미네랄",
-        "dailyRevenue": 4180000,
-        "dailyQty": 125
+        "dailyRevenue": 3310000,
+        "dailyQty": 86
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 3080000,
+        "dailyQty": 75
       }
     ]
   },
