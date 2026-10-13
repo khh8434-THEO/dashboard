@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-13T05:10:54.362Z",
+  "updatedAt": "2026-10-13T13:25:19.968Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.12 17:33",
-    "period": "10월 1일 ~ 11일",
-    "todayRevenue": 35910000,
-    "monthRevenue": 770000000,
-    "ytdRevenue": 17080000000,
-    "monthForecast": 2170000000,
+    "lastUpdate": "2026.10.13 18:54",
+    "period": "10월 1일 ~ 12일",
+    "todayRevenue": 110000000,
+    "monthRevenue": 880000000,
+    "ytdRevenue": 17190000000,
+    "monthForecast": 2270000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
-        "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 5130000,
-        "dailyQty": 114
-      },
-      {
-        "brand": "유트리션",
-        "name": "튼튼 리포좀 비타민C",
-        "dailyRevenue": 4560000,
-        "dailyQty": 321
-      },
-      {
-        "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3460000,
-        "dailyQty": 178
+        "dailyRevenue": 32420000,
+        "dailyQty": 2408
       },
       {
         "brand": "데이타민",
-        "name": "칼마디K2 미네랄",
-        "dailyRevenue": 3310000,
-        "dailyQty": 86
+        "name": "초임계 알티지 오메가3 1000",
+        "dailyRevenue": 23770000,
+        "dailyQty": 1501
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 8200000,
+        "dailyQty": 231
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "유한 YDY 혈당케어 여주",
+        "dailyRevenue": 7410000,
+        "dailyQty": 177
       },
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 3080000,
-        "dailyQty": 75
+        "dailyRevenue": 6300000,
+        "dailyQty": 166
       }
     ]
   },
@@ -65,7 +65,7 @@
     "expiry9m": 0,
     "expiry12m": 7,
     "expiry14m": 4,
-    "totalAmount": 3500000000,
+    "totalAmount": 3480000000,
     "skuCount": 78
   },
   "voc": {
