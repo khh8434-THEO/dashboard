@@ -1,72 +1,72 @@
 {
-  "updatedAt": "2026-10-14T05:44:22.507Z",
+  "updatedAt": "2026-10-14T11:03:27.296Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.13 18:54",
-    "period": "10월 1일 ~ 12일",
-    "todayRevenue": 110000000,
-    "monthRevenue": 880000000,
-    "ytdRevenue": 17190000000,
-    "monthForecast": 2270000000,
+    "lastUpdate": "2026.10.14 16:30",
+    "period": "10월 1일 ~ 13일",
+    "todayRevenue": 56760000,
+    "monthRevenue": 940000000,
+    "ytdRevenue": 17250000000,
+    "monthForecast": 2230000000,
     "top5": [
       {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 32420000,
-        "dailyQty": 2408
-      },
-      {
-        "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 23770000,
-        "dailyQty": 1501
+        "brand": "박약다식",
+        "name": "오늘도 맑아연",
+        "dailyRevenue": 21870000,
+        "dailyQty": 1035
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 8200000,
-        "dailyQty": 231
+        "dailyRevenue": 4410000,
+        "dailyQty": 127
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "유한 YDY 혈당케어 여주",
-        "dailyRevenue": 7410000,
-        "dailyQty": 177
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 3730000,
+        "dailyQty": 173
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 6300000,
-        "dailyQty": 166
+        "name": "폴라초임계오메가3 밸류팩",
+        "dailyRevenue": 3340000,
+        "dailyQty": 101
+      },
+      {
+        "brand": "유트리션",
+        "name": "튼튼 리포좀 비타민C",
+        "dailyRevenue": 3020000,
+        "dailyQty": 217
       }
     ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 10월 7일",
-    "weekLabel": "2026년 41주차",
-    "pbMonthShipment": 346000000,
+    "baseDate": "2026년 10월 14일",
+    "weekLabel": "2026년 42주차",
+    "pbMonthShipment": 804000000,
     "pbYtdShipment": null,
-    "gbMonth": 1410000000,
-    "gbYtd": 65030000000,
+    "gbMonth": 3090000000,
+    "gbYtd": 66710000000,
     "targetAchievement": null,
     "annualTarget": 55000000000,
-    "annualAchievement": "58.4%",
+    "annualAchievement": "59.5%",
     "period": "2026년 누적"
   },
   "stock": {
     "ok": true,
     "orderAlarm": 2,
     "expiryTotal": 14,
-    "stockoutRisk": 1,
+    "stockoutRisk": 2,
     "gonguExpiry": 6,
     "expiry3m": 10,
     "expiry6m": 2,
     "expiry9m": 0,
     "expiry12m": 7,
     "expiry14m": 4,
-    "totalAmount": 3480000000,
-    "skuCount": 78
+    "totalAmount": 3460000000,
+    "skuCount": 79
   },
   "voc": {
     "ok": true,
