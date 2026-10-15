@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-15T07:57:06.952Z",
+  "updatedAt": "2026-10-15T13:05:20.095Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.14 16:30",
-    "period": "10월 1일 ~ 13일",
-    "todayRevenue": 56760000,
-    "monthRevenue": 940000000,
-    "ytdRevenue": 17250000000,
-    "monthForecast": 2230000000,
+    "lastUpdate": "2026.10.15 18:10",
+    "period": "10월 1일 ~ 14일",
+    "todayRevenue": 35870000,
+    "monthRevenue": 970000000,
+    "ytdRevenue": 17290000000,
+    "monthForecast": 2150000000,
     "top5": [
       {
         "brand": "박약다식",
         "name": "오늘도 맑아연",
-        "dailyRevenue": 21870000,
-        "dailyQty": 1035
+        "dailyRevenue": 6910000,
+        "dailyQty": 330
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 4410000,
-        "dailyQty": 127
+        "dailyRevenue": 4770000,
+        "dailyQty": 140
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 4350000,
+        "dailyQty": 109
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3730000,
-        "dailyQty": 173
+        "dailyRevenue": 3860000,
+        "dailyQty": 382
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3 밸류팩",
-        "dailyRevenue": 3340000,
-        "dailyQty": 101
-      },
-      {
-        "brand": "유트리션",
-        "name": "튼튼 리포좀 비타민C",
-        "dailyRevenue": 3020000,
-        "dailyQty": 217
+        "name": "마그듀오 K2",
+        "dailyRevenue": 2180000,
+        "dailyQty": 210
       }
     ]
   },
