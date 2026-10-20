@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-20T07:03:35.785Z",
+  "updatedAt": "2026-10-20T13:15:36.700Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.19 17:48",
-    "period": "10월 1일 ~ 18일",
-    "todayRevenue": 34150000,
-    "monthRevenue": 1110000000,
-    "ytdRevenue": 17420000000,
+    "lastUpdate": "2026.10.20 18:40",
+    "period": "10월 1일 ~ 19일",
+    "todayRevenue": 61320000,
+    "monthRevenue": 1170000000,
+    "ytdRevenue": 17480000000,
     "monthForecast": 1910000000,
     "top5": [
       {
-        "brand": "박약다식",
-        "name": "오늘도 맑아연",
-        "dailyRevenue": 5600000,
-        "dailyQty": 260
+        "brand": "유트리션",
+        "name": "마시는 마그네슘 200",
+        "dailyRevenue": 11210000,
+        "dailyQty": 942
       },
       {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 3080000,
-        "dailyQty": 80
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 7240000,
+        "dailyQty": 305
       },
       {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 2840000,
-        "dailyQty": 128
+        "brand": "데이타민",
+        "name": "클린 화이버",
+        "dailyRevenue": 6410000,
+        "dailyQty": 323
       },
       {
         "brand": "데이타민",
         "name": "칼마디K2 미네랄",
-        "dailyRevenue": 2380000,
-        "dailyQty": 64
+        "dailyRevenue": 3940000,
+        "dailyQty": 108
       },
       {
-        "brand": "유트리션",
-        "name": "와일드 알래스카 오메가3 미니 1000",
-        "dailyRevenue": 2370000,
-        "dailyQty": 122
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 3550000,
+        "dailyQty": 93
       }
     ]
   },
