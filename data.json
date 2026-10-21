@@ -1,57 +1,57 @@
 {
-  "updatedAt": "2026-10-21T06:57:30.207Z",
+  "updatedAt": "2026-10-21T12:44:59.449Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.20 18:40",
-    "period": "10월 1일 ~ 19일",
-    "todayRevenue": 61320000,
-    "monthRevenue": 1170000000,
-    "ytdRevenue": 17480000000,
-    "monthForecast": 1910000000,
+    "lastUpdate": "2026.10.21 16:51",
+    "period": "10월 1일 ~ 20일",
+    "todayRevenue": 110000000,
+    "monthRevenue": 1280000000,
+    "ytdRevenue": 17590000000,
+    "monthForecast": 1980000000,
     "top5": [
       {
-        "brand": "유트리션",
-        "name": "마시는 마그네슘 200",
-        "dailyRevenue": 11210000,
-        "dailyQty": 942
+        "brand": "YDY뉴트리션",
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 25980000,
+        "dailyQty": 611
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 7240000,
-        "dailyQty": 305
+        "dailyRevenue": 19990000,
+        "dailyQty": 882
       },
       {
-        "brand": "데이타민",
-        "name": "클린 화이버",
-        "dailyRevenue": 6410000,
-        "dailyQty": 323
-      },
-      {
-        "brand": "데이타민",
-        "name": "칼마디K2 미네랄",
-        "dailyRevenue": 3940000,
-        "dailyQty": 108
+        "brand": "한독 네이처셋",
+        "name": "한독 네이처셋 빌베리 엘더베리 츄어블",
+        "dailyRevenue": 15990000,
+        "dailyQty": 104
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 3550000,
-        "dailyQty": 93
+        "dailyRevenue": 6690000,
+        "dailyQty": 201
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "퓨어 레드큐민",
+        "dailyRevenue": 5720000,
+        "dailyQty": 243
       }
     ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 10월 14일",
-    "weekLabel": "2026년 42주차",
-    "pbMonthShipment": 804000000,
+    "baseDate": "2026년 10월 21일",
+    "weekLabel": "2026년 43주차",
+    "pbMonthShipment": 1119000000,
     "pbYtdShipment": null,
     "gbMonth": 3090000000,
     "gbYtd": 66710000000,
     "targetAchievement": null,
     "annualTarget": 55000000000,
-    "annualAchievement": "59.5%",
+    "annualAchievement": "60.0%",
     "period": "2026년 누적"
   },
   "stock": {
@@ -59,7 +59,7 @@
     "orderAlarm": 6,
     "expiryTotal": 14,
     "stockoutRisk": 2,
-    "gonguExpiry": 8,
+    "gonguExpiry": 5,
     "expiry3m": 8,
     "expiry6m": 2,
     "expiry9m": 0,
