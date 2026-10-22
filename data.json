@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-22T05:42:15.452Z",
+  "updatedAt": "2026-10-22T11:09:59.824Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.22 11:37",
-    "period": "10월 1일 ~ 20일",
-    "todayRevenue": 110000000,
-    "monthRevenue": 1280000000,
-    "ytdRevenue": 17590000000,
-    "monthForecast": 1980000000,
+    "lastUpdate": "2026.10.22 18:00",
+    "period": "10월 1일 ~ 21일",
+    "todayRevenue": 90050000,
+    "monthRevenue": 1370000000,
+    "ytdRevenue": 17680000000,
+    "monthForecast": 2020000000,
     "top5": [
       {
-        "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 25980000,
-        "dailyQty": 611
-      },
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 19990000,
-        "dailyQty": 882
+        "brand": "데이타민",
+        "name": "초임계 알티지 오메가3 1000",
+        "dailyRevenue": 17720000,
+        "dailyQty": 1093
       },
       {
         "brand": "한독 네이처셋",
         "name": "한독 네이처셋 빌베리 엘더베리 츄어블",
-        "dailyRevenue": 15990000,
-        "dailyQty": 1144
+        "dailyRevenue": 14100000,
+        "dailyQty": 1004
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 12160000,
+        "dailyQty": 283
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 6760000,
+        "dailyQty": 283
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 6690000,
-        "dailyQty": 201
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "퓨어 레드큐민",
-        "dailyRevenue": 5720000,
-        "dailyQty": 243
+        "dailyRevenue": 4090000,
+        "dailyQty": 116
       }
     ]
   },
@@ -47,8 +47,8 @@
     "weekLabel": "2026년 43주차",
     "pbMonthShipment": 1119000000,
     "pbYtdShipment": null,
-    "gbMonth": 3090000000,
-    "gbYtd": 66710000000,
+    "gbMonth": 4990000000,
+    "gbYtd": 69460000000,
     "targetAchievement": null,
     "annualTarget": 55000000000,
     "annualAchievement": "64.1%",
@@ -56,7 +56,7 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 5,
+    "orderAlarm": 6,
     "expiryTotal": 14,
     "stockoutRisk": 2,
     "gonguExpiry": 5,
@@ -65,8 +65,8 @@
     "expiry9m": 0,
     "expiry12m": 7,
     "expiry14m": 4,
-    "totalAmount": 3610000000,
-    "skuCount": 78
+    "totalAmount": 3580000000,
+    "skuCount": 77
   },
   "voc": {
     "ok": true,
