@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-26T08:34:09.606Z",
+  "updatedAt": "2026-10-26T15:46:46.494Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.23 18:04",
-    "period": "10월 1일 ~ 23일",
-    "todayRevenue": 57290000,
-    "monthRevenue": 1440000000,
-    "ytdRevenue": 17760000000,
-    "monthForecast": 1950000000,
+    "lastUpdate": "2026.10.26 18:13",
+    "period": "10월 1일 ~ 25일",
+    "todayRevenue": 43250000,
+    "monthRevenue": 1560000000,
+    "ytdRevenue": 17870000000,
+    "monthForecast": 1940000000,
     "top5": [
       {
-        "brand": "한독 네이처셋",
-        "name": "한독 네이처셋 빌베리 엘더베리 츄어블",
-        "dailyRevenue": 8490000,
-        "dailyQty": 604
-      },
-      {
-        "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 6610000,
-        "dailyQty": 397
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 5430000,
+        "dailyQty": 228
       },
       {
         "brand": "YDY뉴트리션",
         "name": "피크노제놀 큐텐",
-        "dailyRevenue": 6100000,
-        "dailyQty": 135
-      },
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 4500000,
-        "dailyQty": 194
+        "dailyRevenue": 4680000,
+        "dailyQty": 105
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 4200000,
-        "dailyQty": 116
+        "dailyRevenue": 4380000,
+        "dailyQty": 109
+      },
+      {
+        "brand": "한독 네이처셋",
+        "name": "한독 네이처셋 빌베리 엘더베리 츄어블",
+        "dailyRevenue": 3630000,
+        "dailyQty": 258
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "마그듀오 K2",
+        "dailyRevenue": 2700000,
+        "dailyQty": 128
       }
     ]
   },
@@ -56,7 +56,7 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 7,
+    "orderAlarm": 6,
     "expiryTotal": 15,
     "stockoutRisk": 2,
     "gonguExpiry": 5,
