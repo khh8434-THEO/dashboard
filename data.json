@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-27T05:56:05.740Z",
+  "updatedAt": "2026-10-27T11:31:49.570Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.26 18:13",
-    "period": "10월 1일 ~ 25일",
-    "todayRevenue": 43250000,
-    "monthRevenue": 1560000000,
-    "ytdRevenue": 17870000000,
+    "lastUpdate": "2026.10.27 16:18",
+    "period": "10월 1일 ~ 26일",
+    "todayRevenue": 64670000,
+    "monthRevenue": 1630000000,
+    "ytdRevenue": 17940000000,
     "monthForecast": 1940000000,
     "top5": [
       {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 5430000,
-        "dailyQty": 228
-      },
-      {
         "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 4680000,
-        "dailyQty": 105
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 4380000,
-        "dailyQty": 109
-      },
-      {
-        "brand": "한독 네이처셋",
-        "name": "한독 네이처셋 빌베리 엘더베리 츄어블",
-        "dailyRevenue": 3630000,
-        "dailyQty": 258
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 19140000,
+        "dailyQty": 1035
       },
       {
         "brand": "YDY뉴트리션",
         "name": "마그듀오 K2",
-        "dailyRevenue": 2700000,
-        "dailyQty": 128
+        "dailyRevenue": 5790000,
+        "dailyQty": 408
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 5730000,
+        "dailyQty": 159
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 5660000,
+        "dailyQty": 124
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 3770000,
+        "dailyQty": 283
       }
     ]
   },
@@ -59,13 +59,13 @@
     "orderAlarm": 4,
     "expiryTotal": 15,
     "stockoutRisk": 2,
-    "gonguExpiry": 5,
+    "gonguExpiry": 6,
     "expiry3m": 8,
     "expiry6m": 2,
     "expiry9m": 2,
     "expiry12m": 7,
     "expiry14m": 4,
-    "totalAmount": 3610000000,
+    "totalAmount": 3640000000,
     "skuCount": 77
   },
   "voc": {
