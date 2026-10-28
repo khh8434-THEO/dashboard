@@ -1,57 +1,57 @@
 {
-  "updatedAt": "2026-10-28T06:35:05.187Z",
+  "updatedAt": "2026-10-28T13:46:58.530Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.27 16:18",
-    "period": "10월 1일 ~ 26일",
-    "todayRevenue": 64670000,
-    "monthRevenue": 1630000000,
-    "ytdRevenue": 17940000000,
-    "monthForecast": 1940000000,
+    "lastUpdate": "2026.10.28 18:11",
+    "period": "10월 1일 ~ 27일",
+    "todayRevenue": 32630000,
+    "monthRevenue": 1660000000,
+    "ytdRevenue": 17970000000,
+    "monthForecast": 1900000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 19140000,
-        "dailyQty": 1035
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "마그듀오 K2",
-        "dailyRevenue": 5790000,
-        "dailyQty": 408
+        "dailyRevenue": 6110000,
+        "dailyQty": 571
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 5730000,
-        "dailyQty": 159
+        "dailyRevenue": 4300000,
+        "dailyQty": 121
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "마그듀오 K2",
+        "dailyRevenue": 2350000,
+        "dailyQty": 118
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "퓨어 레드큐민",
+        "dailyRevenue": 2270000,
+        "dailyQty": 93
       },
       {
         "brand": "YDY뉴트리션",
         "name": "피크노제놀 큐텐",
-        "dailyRevenue": 5660000,
-        "dailyQty": 124
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 3770000,
-        "dailyQty": 283
+        "dailyRevenue": 2230000,
+        "dailyQty": 43
       }
     ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 10월 21일",
-    "weekLabel": "2026년 43주차",
-    "pbMonthShipment": 1119000000,
+    "baseDate": "2026년 10월 28일",
+    "weekLabel": "2026년 44주차",
+    "pbMonthShipment": 1458000000,
     "pbYtdShipment": null,
-    "gbMonth": 4990000000,
-    "gbYtd": 69460000000,
+    "gbMonth": 6560000000,
+    "gbYtd": 71030000000,
     "targetAchievement": null,
     "annualTarget": 55000000000,
-    "annualAchievement": "64.1%",
+    "annualAchievement": "64.7%",
     "period": "2026년 누적"
   },
   "stock": {
