@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-10-30T09:31:11.788Z",
+  "updatedAt": "2026-10-30T16:29:42.502Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.29 17:11",
+    "lastUpdate": "2026.10.30 18:58",
     "period": "10월 1일 ~ 29일",
-    "todayRevenue": 28520000,
-    "monthRevenue": 1760000000,
-    "ytdRevenue": 18070000000,
-    "monthForecast": 1880000000,
+    "todayRevenue": 100000000,
+    "monthRevenue": 1790000000,
+    "ytdRevenue": 18110000000,
+    "monthForecast": 1910000000,
     "top5": [
+      {
+        "brand": "박약다식",
+        "name": "오메츄",
+        "dailyRevenue": 63620000,
+        "dailyQty": 1825
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "퓨어 리포좀 비타민C",
+        "dailyRevenue": 8630000,
+        "dailyQty": 456
+      },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 6170000,
-        "dailyQty": 261
+        "dailyRevenue": 7090000,
+        "dailyQty": 305
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 4230000,
-        "dailyQty": 220
+        "dailyRevenue": 4050000,
+        "dailyQty": 210
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 슈퍼플러스 100",
-        "dailyRevenue": 2640000,
-        "dailyQty": 77
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "마그듀오 K2",
-        "dailyRevenue": 2240000,
-        "dailyQty": 116
-      },
-      {
-        "brand": "파이토알엑스",
-        "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 1780000,
-        "dailyQty": 28
+        "dailyRevenue": 2960000,
+        "dailyQty": 88
       }
     ]
   },
