@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-02T07:08:07.162Z",
+  "updatedAt": "2026-11-02T17:44:11.651Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.10.30 18:58",
-    "period": "10월 1일 ~ 29일",
-    "todayRevenue": 100000000,
-    "monthRevenue": 1790000000,
-    "ytdRevenue": 18110000000,
-    "monthForecast": 1910000000,
+    "lastUpdate": "2026.11.02 17:13",
+    "period": "11월 1일 ~ 1일",
+    "todayRevenue": 49480000,
+    "monthRevenue": 49480000,
+    "ytdRevenue": 18220000000,
+    "monthForecast": 1480000000,
     "top5": [
-      {
-        "brand": "박약다식",
-        "name": "오메츄",
-        "dailyRevenue": 63620000,
-        "dailyQty": 1825
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "퓨어 리포좀 비타민C",
-        "dailyRevenue": 8630000,
-        "dailyQty": 456
-      },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 7090000,
-        "dailyQty": 305
+        "dailyRevenue": 9540000,
+        "dailyQty": 410
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 4050000,
-        "dailyQty": 210
+        "dailyRevenue": 8630000,
+        "dailyQty": 448
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 슈퍼플러스 100",
-        "dailyRevenue": 2960000,
-        "dailyQty": 88
+        "dailyRevenue": 3650000,
+        "dailyQty": 106
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "마그듀오 K2",
+        "dailyRevenue": 3480000,
+        "dailyQty": 184
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 3460000,
+        "dailyQty": 110
       }
     ]
   },
@@ -51,20 +51,20 @@
     "gbYtd": 71030000000,
     "targetAchievement": null,
     "annualTarget": 55000000000,
-    "annualAchievement": "64.7%",
+    "annualAchievement": "70.9%",
     "period": "2026년 누적"
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 4,
+    "orderAlarm": 5,
     "expiryTotal": 15,
-    "stockoutRisk": 2,
+    "stockoutRisk": 1,
     "gonguExpiry": 4,
-    "expiry3m": 8,
+    "expiry3m": 9,
     "expiry6m": 2,
     "expiry9m": 2,
-    "expiry12m": 6,
-    "expiry14m": 5,
+    "expiry12m": 7,
+    "expiry14m": 4,
     "totalAmount": 3670000000,
     "skuCount": 83
   },
