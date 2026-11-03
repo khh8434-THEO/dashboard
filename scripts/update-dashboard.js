@@ -137,12 +137,15 @@ async function extractWeekly(browser) {
       const weekLabel = text.match(/(\d{4})년\s+(\d{1,2})주차/)?.[0] || null;
 
       const pbMonthShipment = matchKRW(text, /(?:1|2|3|4|5|6|7|8|9|10|11|12)월\s*자사\s*PB\s*출고[^\n]*\n\s*([\d.,]+\s*[억만]?)/);
-      const pbYtdShipment   = matchKRW(text, /2026\s*누적\s*출고[^\n]*\n\s*([\d.,]+\s*[억만]?)/);
+      // "2026 누적 자사PB 출고 (1~N월)" 또는 "2026 누적 출고" 모두 매칭
+      const pbYtdShipment   = matchKRW(text, /2026\s*누적\s*(?:자사\s*PB\s*)?출고[^\n]*\n\s*([\d.,]+\s*[억만]?)/);
       const gbMonth         = matchKRW(text, /(?:1|2|3|4|5|6|7|8|9|10|11|12)월\s*공구[^\n]*\n\s*([\d.,]+\s*[억만]?)/);
       const gbYtd           = matchKRW(text, /2026\s*누적\s*공구[^\n]*\n\s*([\d.,]+\s*[억만]?)/);
+      // "달성률 N%" 형식이 PB 섹션에 있음 (이전 "목표 달성률"에서 라벨 간소화)
       const targetAchievement =
         text.match(/출고\s*누적\s*목표\s*달성률\s*\n\s*([\d.,]+\s*%)/)?.[1] ||
-        text.match(/목표\s*달성률\s*\n\s*([\d.,]+\s*%)/)?.[1] || null;
+        text.match(/목표\s*달성률\s*\n\s*([\d.,]+\s*%)/)?.[1] ||
+        text.match(/달성률\s*([\d.,]+\s*%)/)?.[1] || null;
       const annualTarget    = matchKRW(text, /2026\s*연간\s*목표\s*\n\s*([\d.,]+\s*억)/);
       const annualAchievement = text.match(/연간\s*달성률\s*\n?\s*([\d.,]+\s*%)/)?.[1] || null;
 
