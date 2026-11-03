@@ -18,7 +18,6 @@ const URLS = {
   daily:  'https://khh8434-theo.github.io/daily-dashboard/',
   weekly: 'https://khh8434-theo.github.io/pharmabros-weekly-dashboard/',
   stock:  'https://hannah-pb.github.io/pharma-dashboard/dashboard_v2.html#inventory',
-  voc:    'https://pharmacy-voc-dashboard.vercel.app/',
 };
 
 const NAV_TIMEOUT = 60_000;
@@ -243,44 +242,17 @@ async function extractStock(browser) {
   );
 }
 
-// ---------- VOC ----------
-
-async function extractVoc(browser) {
-  return safeRun('voc', () =>
-    withPage(browser, URLS.voc, async (page) => {
-      await page.waitForTimeout(8_000);
-      const text = await page.evaluate(() => document.body.innerText || '');
-
-      const grab = (label) => {
-        const re = new RegExp(label + '\\s*\\n\\s*(\\d+)');
-        const m = text.match(re);
-        return m ? Number(m[1]) : null;
-      };
-
-      const total   = grab('총\\s*문의');
-      const pending = grab('미처리');
-      const high    = grab('🔴?\\s*높음\\s*우선순위') || grab('높음\\s*우선순위');
-      const rateMatch = text.match(/처리율\s*(\d{1,3})\s*%/);
-      const completed = text.match(/(\d+)\s*\n\s*완료\s*건수/)?.[1] ? Number(text.match(/(\d+)\s*\n\s*완료\s*건수/)[1]) : null;
-      const processingRate = rateMatch ? Number(rateMatch[1])
-        : (total != null && completed != null && total > 0 ? Math.round((completed/total)*100) : null);
-
-      return { total, pending, high, completed, processingRate };
-    })
-  );
-}
-
 async function main() {
   console.log('Launching browser…');
   const browser = await chromium.launch({ args: ['--no-sandbox'] });
   let result;
   try {
     console.log('Extracting in parallel…');
-    const [daily, weekly, stock, voc] = await Promise.all([
+    const [daily, weekly, stock] = await Promise.all([
       extractDaily(browser), extractWeekly(browser),
-      extractStock(browser), extractVoc(browser),
+      extractStock(browser),
     ]);
-    result = { updatedAt: new Date().toISOString(), daily, weekly, stock, voc };
+    result = { updatedAt: new Date().toISOString(), daily, weekly, stock };
   } finally { await browser.close(); }
 
   fs.writeFileSync(DATA_PATH, JSON.stringify(result, null, 2) + '\n');
