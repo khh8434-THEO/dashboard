@@ -1,57 +1,57 @@
 {
-  "updatedAt": "2026-11-04T08:30:53.887Z",
+  "updatedAt": "2026-11-04T16:47:20.732Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.03 18:41",
-    "period": "11월 1일 ~ 2일",
-    "todayRevenue": 62380000,
-    "monthRevenue": 110000000,
-    "ytdRevenue": 18210000000,
-    "monthForecast": 1680000000,
+    "lastUpdate": "2026.11.04 17:52",
+    "period": "11월 1일 ~ 3일",
+    "todayRevenue": 75590000,
+    "monthRevenue": 190000000,
+    "ytdRevenue": 18290000000,
+    "monthForecast": 1870000000,
     "top5": [
-      {
-        "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 11170000,
-        "dailyQty": 516
-      },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 10090000,
-        "dailyQty": 446
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 8660000,
-        "dailyQty": 444
+        "dailyRevenue": 23530000,
+        "dailyQty": 1044
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 슈퍼플러스 100",
-        "dailyRevenue": 5400000,
-        "dailyQty": 168
+        "dailyRevenue": 12430000,
+        "dailyQty": 422
       },
       {
-        "brand": "파이토알엑스",
-        "name": "리얼 빌베리 베타글루칸",
-        "dailyRevenue": 3320000,
-        "dailyQty": 146
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 6280000,
+        "dailyQty": 261
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 5300000,
+        "dailyQty": 290
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "퓨어 리포좀 비타민C",
+        "dailyRevenue": 2170000,
+        "dailyQty": 128
       }
     ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 10월 28일",
-    "weekLabel": "2026년 44주차",
-    "pbMonthShipment": 1458000000,
-    "pbYtdShipment": 17360000000,
-    "gbMonth": 6560000000,
-    "gbYtd": 71030000000,
-    "targetAchievement": "88.8%",
+    "baseDate": "2026년 11월 4일",
+    "weekLabel": "2026년 45주차",
+    "pbMonthShipment": 175000000,
+    "pbYtdShipment": 17940000000,
+    "gbMonth": 890000000,
+    "gbYtd": 72610000000,
+    "targetAchievement": "79.2%",
     "annualTarget": 55000000000,
-    "annualAchievement": "70.9%",
+    "annualAchievement": "72.0%",
     "period": "2026년 누적"
   },
   "stock": {
