@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-05T03:03:56.743Z",
+  "updatedAt": "2026-11-05T11:48:39.545Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.04 17:52",
-    "period": "11월 1일 ~ 3일",
-    "todayRevenue": 75590000,
-    "monthRevenue": 190000000,
-    "ytdRevenue": 18290000000,
-    "monthForecast": 1870000000,
+    "lastUpdate": "2026.11.05 16:33",
+    "period": "11월 1일 ~ 5일",
+    "todayRevenue": 43480000,
+    "monthRevenue": 250000000,
+    "ytdRevenue": 18350000000,
+    "monthForecast": 1480000000,
     "top5": [
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 23530000,
-        "dailyQty": 1044
-      },
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 슈퍼플러스 100",
-        "dailyRevenue": 12430000,
-        "dailyQty": 422
+        "dailyRevenue": 6600000,
+        "dailyQty": 284
       },
       {
         "brand": "YDY뉴트리션",
         "name": "액티브비큐텐",
-        "dailyRevenue": 6280000,
-        "dailyQty": 261
+        "dailyRevenue": 4580000,
+        "dailyQty": 319
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 5300000,
-        "dailyQty": 290
+        "dailyRevenue": 4410000,
+        "dailyQty": 234
       },
       {
-        "brand": "YDY뉴트리션",
-        "name": "퓨어 리포좀 비타민C",
-        "dailyRevenue": 2170000,
-        "dailyQty": 128
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 슈퍼플러스 100",
+        "dailyRevenue": 2730000,
+        "dailyQty": 80
+      },
+      {
+        "brand": "파이토알엑스",
+        "name": "트룰리 알티지 오메가3 1100",
+        "dailyRevenue": 2420000,
+        "dailyQty": 36
       }
     ]
   },
@@ -58,14 +58,14 @@
     "ok": true,
     "orderAlarm": 5,
     "expiryTotal": 15,
-    "stockoutRisk": 1,
+    "stockoutRisk": 2,
     "gonguExpiry": 3,
     "expiry3m": 9,
     "expiry6m": 2,
     "expiry9m": 2,
     "expiry12m": 7,
     "expiry14m": 4,
-    "totalAmount": 3600000000,
+    "totalAmount": 3610000000,
     "skuCount": 83
   }
 }
