@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-09T09:00:11.551Z",
+  "updatedAt": "2026-11-09T19:41:27.237Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.05 16:33",
-    "period": "11월 1일 ~ 5일",
-    "todayRevenue": 43480000,
-    "monthRevenue": 250000000,
-    "ytdRevenue": 18350000000,
-    "monthForecast": 1480000000,
+    "lastUpdate": "2026.11.09 19:38",
+    "period": "11월 1일 ~ 8일",
+    "todayRevenue": 35430000,
+    "monthRevenue": 340000000,
+    "ytdRevenue": 18440000000,
+    "monthForecast": 1260000000,
     "top5": [
-      {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 6600000,
-        "dailyQty": 284
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 4580000,
-        "dailyQty": 319
-      },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 4410000,
-        "dailyQty": 234
+        "dailyRevenue": 5680000,
+        "dailyQty": 295
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 3810000,
+        "dailyQty": 166
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 슈퍼플러스 100",
-        "dailyRevenue": 2730000,
-        "dailyQty": 80
+        "dailyRevenue": 2950000,
+        "dailyQty": 87
       },
       {
-        "brand": "파이토알엑스",
-        "name": "트룰리 알티지 오메가3 1100",
-        "dailyRevenue": 2420000,
-        "dailyQty": 36
+        "brand": "YDY뉴트리션",
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 2330000,
+        "dailyQty": 45
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "마그듀오 K2",
+        "dailyRevenue": 2330000,
+        "dailyQty": 126
       }
     ]
   },
@@ -62,8 +62,8 @@
     "gonguExpiry": 3,
     "expiry3m": 9,
     "expiry6m": 2,
-    "expiry9m": 2,
-    "expiry12m": 6,
+    "expiry9m": 3,
+    "expiry12m": 5,
     "expiry14m": 4,
     "totalAmount": 3620000000,
     "skuCount": 83
