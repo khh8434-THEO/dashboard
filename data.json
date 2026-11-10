@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-10T02:30:51.713Z",
+  "updatedAt": "2026-11-10T10:44:34.385Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.09 19:38",
-    "period": "11월 1일 ~ 8일",
-    "todayRevenue": 35430000,
-    "monthRevenue": 340000000,
-    "ytdRevenue": 18440000000,
-    "monthForecast": 1260000000,
+    "lastUpdate": "2026.11.10 17:39",
+    "period": "11월 1일 ~ 9일",
+    "todayRevenue": 61210000,
+    "monthRevenue": 400000000,
+    "ytdRevenue": 18500000000,
+    "monthForecast": 1330000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 5680000,
-        "dailyQty": 295
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 13080000,
+        "dailyQty": 390
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 8420000,
+        "dailyQty": 205
       },
       {
         "brand": "한독 테라큐민",
         "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 3810000,
-        "dailyQty": 166
+        "dailyRevenue": 7910000,
+        "dailyQty": 348
       },
       {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 슈퍼플러스 100",
-        "dailyRevenue": 2950000,
-        "dailyQty": 87
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 2330000,
-        "dailyQty": 45
+        "brand": "데이타민",
+        "name": "활성형엽산 800",
+        "dailyRevenue": 7000000,
+        "dailyQty": 568
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "마그듀오 K2",
-        "dailyRevenue": 2330000,
-        "dailyQty": 126
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 3240000,
+        "dailyQty": 152
       }
     ]
   },
@@ -56,16 +56,16 @@
   },
   "stock": {
     "ok": true,
-    "orderAlarm": 4,
-    "expiryTotal": 14,
-    "stockoutRisk": 2,
-    "gonguExpiry": 3,
+    "orderAlarm": 6,
+    "expiryTotal": 16,
+    "stockoutRisk": 3,
+    "gonguExpiry": 4,
     "expiry3m": 9,
     "expiry6m": 2,
-    "expiry9m": 3,
+    "expiry9m": 4,
     "expiry12m": 5,
-    "expiry14m": 4,
-    "totalAmount": 3650000000,
+    "expiry14m": 5,
+    "totalAmount": 3610000000,
     "skuCount": 83
   }
 }
