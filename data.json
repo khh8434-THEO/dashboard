@@ -1,71 +1,71 @@
 {
-  "updatedAt": "2026-11-11T04:24:05.956Z",
+  "updatedAt": "2026-11-11T12:23:28.744Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.10 17:39",
-    "period": "11월 1일 ~ 9일",
-    "todayRevenue": 61210000,
-    "monthRevenue": 400000000,
-    "ytdRevenue": 18500000000,
-    "monthForecast": 1330000000,
+    "lastUpdate": "2026.11.11 15:19",
+    "period": "11월 1일 ~ 11일",
+    "todayRevenue": 41240000,
+    "monthRevenue": 460000000,
+    "ytdRevenue": 18560000000,
+    "monthForecast": 1240000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 13080000,
-        "dailyQty": 390
+        "name": "프로바이오 에스엘비(SLB)",
+        "dailyRevenue": 7550000,
+        "dailyQty": 186
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 8420000,
-        "dailyQty": 205
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 3980000,
+        "dailyQty": 124
       },
       {
-        "brand": "한독 테라큐민",
-        "name": "한독 테라큐민 맥스 60",
-        "dailyRevenue": 7910000,
-        "dailyQty": 348
+        "brand": "데이타민",
+        "name": "비타민D 츄어블 2000IU",
+        "dailyRevenue": 3420000,
+        "dailyQty": 256
       },
       {
         "brand": "데이타민",
         "name": "활성형엽산 800",
-        "dailyRevenue": 7000000,
-        "dailyQty": 568
+        "dailyRevenue": 2870000,
+        "dailyQty": 216
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 3240000,
-        "dailyQty": 152
+        "name": "마그듀오 K2",
+        "dailyRevenue": 2790000,
+        "dailyQty": 166
       }
     ]
   },
   "weekly": {
     "ok": true,
-    "baseDate": "2026년 11월 4일",
-    "weekLabel": "2026년 45주차",
-    "pbMonthShipment": 175000000,
-    "pbYtdShipment": 17940000000,
-    "gbMonth": 890000000,
-    "gbYtd": 72610000000,
-    "targetAchievement": "79.2%",
+    "baseDate": "2026년 11월 11일",
+    "weekLabel": "2026년 46주차",
+    "pbMonthShipment": 378000000,
+    "pbYtdShipment": 16420000000,
+    "gbMonth": 2090000000,
+    "gbYtd": 73820000000,
+    "targetAchievement": "79.6%",
     "annualTarget": 55000000000,
-    "annualAchievement": "72.0%",
+    "annualAchievement": "72.3%",
     "period": "2026년 누적"
   },
   "stock": {
     "ok": true,
     "orderAlarm": 6,
-    "expiryTotal": 16,
+    "expiryTotal": 14,
     "stockoutRisk": 3,
-    "gonguExpiry": 4,
-    "expiry3m": 9,
+    "gonguExpiry": 3,
+    "expiry3m": 7,
     "expiry6m": 2,
     "expiry9m": 4,
     "expiry12m": 5,
-    "expiry14m": 5,
-    "totalAmount": 3610000000,
+    "expiry14m": 4,
+    "totalAmount": 3590000000,
     "skuCount": 83
   }
 }
