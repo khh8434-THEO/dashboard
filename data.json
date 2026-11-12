@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-12T01:51:00.215Z",
+  "updatedAt": "2026-11-12T09:10:26.430Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.11 15:19",
+    "lastUpdate": "2026.11.12 16:47",
     "period": "11월 1일 ~ 11일",
-    "todayRevenue": 41240000,
-    "monthRevenue": 460000000,
-    "ytdRevenue": 18560000000,
-    "monthForecast": 1240000000,
+    "todayRevenue": 35110000,
+    "monthRevenue": 490000000,
+    "ytdRevenue": 18600000000,
+    "monthForecast": 1350000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 7550000,
-        "dailyQty": 186
+        "dailyRevenue": 7480000,
+        "dailyQty": 178
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 3980000,
-        "dailyQty": 124
+        "dailyRevenue": 4180000,
+        "dailyQty": 111
       },
       {
-        "brand": "데이타민",
-        "name": "비타민D 츄어블 2000IU",
-        "dailyRevenue": 3420000,
-        "dailyQty": 256
-      },
-      {
-        "brand": "데이타민",
-        "name": "활성형엽산 800",
-        "dailyRevenue": 2870000,
-        "dailyQty": 216
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 3270000,
+        "dailyQty": 147
       },
       {
         "brand": "YDY뉴트리션",
         "name": "마그듀오 K2",
-        "dailyRevenue": 2790000,
-        "dailyQty": 166
+        "dailyRevenue": 3000000,
+        "dailyQty": 186
+      },
+      {
+        "brand": "데이타민",
+        "name": "비타민D 츄어블 2000IU",
+        "dailyRevenue": 1770000,
+        "dailyQty": 133
       }
     ]
   },
@@ -65,7 +65,7 @@
     "expiry9m": 4,
     "expiry12m": 5,
     "expiry14m": 4,
-    "totalAmount": 3590000000,
+    "totalAmount": 3620000000,
     "skuCount": 83
   }
 }
