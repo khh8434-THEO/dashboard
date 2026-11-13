@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-13T04:47:54.337Z",
+  "updatedAt": "2026-11-13T12:48:55.833Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.12 16:47",
-    "period": "11월 1일 ~ 11일",
-    "todayRevenue": 35110000,
-    "monthRevenue": 490000000,
-    "ytdRevenue": 18600000000,
-    "monthForecast": 1350000000,
+    "lastUpdate": "2026.11.13 16:45",
+    "period": "11월 1일 ~ 13일",
+    "todayRevenue": 35790000,
+    "monthRevenue": 550000000,
+    "ytdRevenue": 18650000000,
+    "monthForecast": 1260000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
         "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 7480000,
-        "dailyQty": 178
+        "dailyRevenue": 5310000,
+        "dailyQty": 153
       },
       {
         "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 4180000,
-        "dailyQty": 111
+        "dailyRevenue": 3320000,
+        "dailyQty": 91
       },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 3270000,
-        "dailyQty": 147
+        "dailyRevenue": 2710000,
+        "dailyQty": 127
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "마그듀오 K2",
-        "dailyRevenue": 3000000,
-        "dailyQty": 186
+        "name": "테라큐민 프라임 70",
+        "dailyRevenue": 2580000,
+        "dailyQty": 116
       },
       {
-        "brand": "데이타민",
-        "name": "비타민D 츄어블 2000IU",
-        "dailyRevenue": 1770000,
-        "dailyQty": 133
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 부스터 100",
+        "dailyRevenue": 2310000,
+        "dailyQty": 76
       }
     ]
   },
@@ -65,7 +65,7 @@
     "expiry9m": 4,
     "expiry12m": 5,
     "expiry14m": 4,
-    "totalAmount": 3620000000,
+    "totalAmount": 3580000000,
     "skuCount": 83
   }
 }
