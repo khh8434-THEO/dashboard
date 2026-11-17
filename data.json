@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-17T01:29:04.515Z",
+  "updatedAt": "2026-11-17T10:03:34.000Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.16 17:28",
-    "period": "11월 1일 ~ 15일",
-    "todayRevenue": 24520000,
-    "monthRevenue": 640000000,
-    "ytdRevenue": 18740000000,
+    "lastUpdate": "2026.11.17 18:01",
+    "period": "11월 1일 ~ 16일",
+    "todayRevenue": 40230000,
+    "monthRevenue": 680000000,
+    "ytdRevenue": 18780000000,
     "monthForecast": 1270000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 14000000,
+        "dailyQty": 725
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 5030000,
+        "dailyQty": 170
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "마그듀오 K2",
+        "dailyRevenue": 3220000,
+        "dailyQty": 174
+      },
+      {
+        "brand": "YDY뉴트리션",
         "name": "파이토 레드큐민",
-        "dailyRevenue": 3780000,
-        "dailyQty": 104
-      },
-      {
-        "brand": "박약다식",
-        "name": "오메츄",
-        "dailyRevenue": 2060000,
-        "dailyQty": 60
+        "dailyRevenue": 2750000,
+        "dailyQty": 77
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "프로바이오 에스엘비(SLB)",
-        "dailyRevenue": 1990000,
-        "dailyQty": 49
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "테라큐민 부스터 100",
-        "dailyRevenue": 1640000,
-        "dailyQty": 47
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "퓨어 리포좀 글루타치온",
-        "dailyRevenue": 1580000,
-        "dailyQty": 63
+        "name": "피크노제놀 큐텐",
+        "dailyRevenue": 2070000,
+        "dailyQty": 39
       }
     ]
   },
@@ -65,7 +65,7 @@
     "expiry9m": 4,
     "expiry12m": 5,
     "expiry14m": 4,
-    "totalAmount": 3700000000,
+    "totalAmount": 3710000000,
     "skuCount": 83
   }
 }
