@@ -1,45 +1,14 @@
 {
-  "updatedAt": "2026-11-19T01:38:29.734Z",
+  "updatedAt": "2026-11-19T09:52:38.279Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.17 18:01",
-    "period": "11월 1일 ~ 16일",
-    "todayRevenue": 40230000,
-    "monthRevenue": 680000000,
-    "ytdRevenue": 18780000000,
-    "monthForecast": 1270000000,
-    "top5": [
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 14000000,
-        "dailyQty": 725
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 5030000,
-        "dailyQty": 170
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "마그듀오 K2",
-        "dailyRevenue": 3220000,
-        "dailyQty": 174
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 2750000,
-        "dailyQty": 77
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "피크노제놀 큐텐",
-        "dailyRevenue": 2070000,
-        "dailyQty": 39
-      }
-    ]
+    "lastUpdate": "2026.11.19 18:25",
+    "period": "11월 1일 ~ 0일",
+    "todayRevenue": 0,
+    "monthRevenue": 0,
+    "ytdRevenue": 0,
+    "monthForecast": 0,
+    "top5": []
   },
   "weekly": {
     "ok": true,
@@ -59,13 +28,13 @@
     "orderAlarm": 5,
     "expiryTotal": 13,
     "stockoutRisk": 2,
-    "gonguExpiry": 3,
-    "expiry3m": 7,
+    "gonguExpiry": 4,
+    "expiry3m": 8,
     "expiry6m": 0,
     "expiry9m": 5,
     "expiry12m": 4,
     "expiry14m": 4,
-    "totalAmount": 3470000000,
-    "skuCount": 84
+    "totalAmount": 3820000000,
+    "skuCount": 83
   }
 }
