@@ -1,14 +1,45 @@
 {
-  "updatedAt": "2026-11-20T00:59:42.431Z",
+  "updatedAt": "2026-11-20T08:16:49.212Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.19 18:25",
-    "period": "11월 1일 ~ 0일",
-    "todayRevenue": 0,
-    "monthRevenue": 0,
-    "ytdRevenue": 0,
-    "monthForecast": 0,
-    "top5": []
+    "lastUpdate": "2026.11.20 16:10",
+    "period": "11월 1일 ~ 20일",
+    "todayRevenue": 29320000,
+    "monthRevenue": 880000000,
+    "ytdRevenue": 18980000000,
+    "monthForecast": 1310000000,
+    "top5": [
+      {
+        "brand": "YDY뉴트리션",
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 3570000,
+        "dailyQty": 111
+      },
+      {
+        "brand": "데이타민",
+        "name": "초임계 알티지 오메가3 1000",
+        "dailyRevenue": 3110000,
+        "dailyQty": 182
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 2780000,
+        "dailyQty": 141
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "오큐클리어",
+        "dailyRevenue": 2380000,
+        "dailyQty": 75
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "마그듀오 K2",
+        "dailyRevenue": 2240000,
+        "dailyQty": 114
+      }
+    ]
   },
   "weekly": {
     "ok": true,
@@ -27,14 +58,14 @@
     "ok": true,
     "orderAlarm": 5,
     "expiryTotal": 14,
-    "stockoutRisk": 2,
+    "stockoutRisk": 1,
     "gonguExpiry": 4,
     "expiry3m": 8,
     "expiry6m": 0,
     "expiry9m": 5,
     "expiry12m": 5,
     "expiry14m": 4,
-    "totalAmount": 3820000000,
+    "totalAmount": 3840000000,
     "skuCount": 83
   }
 }
