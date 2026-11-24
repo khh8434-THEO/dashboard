@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-23T23:17:40.049Z",
+  "updatedAt": "2026-11-24T08:10:07.597Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.20 16:10",
-    "period": "11월 1일 ~ 20일",
-    "todayRevenue": 29320000,
-    "monthRevenue": 880000000,
-    "ytdRevenue": 18980000000,
-    "monthForecast": 1310000000,
+    "lastUpdate": "2026.11.24 17:03",
+    "period": "11월 1일 ~ 23일",
+    "todayRevenue": 35210000,
+    "monthRevenue": 990000000,
+    "ytdRevenue": 19090000000,
+    "monthForecast": 1290000000,
     "top5": [
       {
         "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 3570000,
-        "dailyQty": 111
-      },
-      {
-        "brand": "데이타민",
-        "name": "초임계 알티지 오메가3 1000",
-        "dailyRevenue": 3110000,
-        "dailyQty": 182
-      },
-      {
-        "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 2780000,
-        "dailyQty": 141
+        "dailyRevenue": 4770000,
+        "dailyQty": 245
       },
       {
         "brand": "YDY뉴트리션",
-        "name": "오큐클리어",
-        "dailyRevenue": 2380000,
-        "dailyQty": 75
+        "name": "파이토 레드큐민",
+        "dailyRevenue": 3760000,
+        "dailyQty": 94
+      },
+      {
+        "brand": "유트리션",
+        "name": "튼튼 리포좀 비타민C",
+        "dailyRevenue": 3470000,
+        "dailyQty": 252
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "액티브비큐텐",
+        "dailyRevenue": 1990000,
+        "dailyQty": 63
       },
       {
         "brand": "YDY뉴트리션",
         "name": "마그듀오 K2",
-        "dailyRevenue": 2240000,
-        "dailyQty": 114
+        "dailyRevenue": 1940000,
+        "dailyQty": 102
       }
     ]
   },
@@ -60,12 +60,12 @@
     "expiryTotal": 14,
     "stockoutRisk": 1,
     "gonguExpiry": 3,
-    "expiry3m": 9,
+    "expiry3m": 8,
     "expiry6m": 0,
     "expiry9m": 5,
     "expiry12m": 5,
     "expiry14m": 3,
-    "totalAmount": 3850000000,
+    "totalAmount": 4380000000,
     "skuCount": 83
   }
 }
