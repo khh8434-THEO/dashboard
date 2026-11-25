@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-25T03:19:40.174Z",
+  "updatedAt": "2026-11-25T13:50:11.946Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.24 17:03",
-    "period": "11월 1일 ~ 23일",
-    "todayRevenue": 35210000,
-    "monthRevenue": 990000000,
-    "ytdRevenue": 19090000000,
-    "monthForecast": 1290000000,
+    "lastUpdate": "2026.11.25 17:06",
+    "period": "11월 1일 ~ 25일",
+    "todayRevenue": 64210000,
+    "monthRevenue": 1070000000,
+    "ytdRevenue": 19170000000,
+    "monthForecast": 1280000000,
     "top5": [
+      {
+        "brand": "박약다식",
+        "name": "D를 담다 츄어블 2000IU",
+        "dailyRevenue": 18920000,
+        "dailyQty": 1430
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 프라임 70",
+        "dailyRevenue": 9220000,
+        "dailyQty": 401
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "테라큐민 부스터 100",
+        "dailyRevenue": 6000000,
+        "dailyQty": 181
+      },
+      {
+        "brand": "한독 테라큐민",
+        "name": "한독 테라큐민 맥스 60",
+        "dailyRevenue": 3290000,
+        "dailyQty": 139
+      },
       {
         "brand": "YDY뉴트리션",
         "name": "폴라초임계오메가3",
-        "dailyRevenue": 4770000,
-        "dailyQty": 245
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 3760000,
-        "dailyQty": 94
-      },
-      {
-        "brand": "유트리션",
-        "name": "튼튼 리포좀 비타민C",
-        "dailyRevenue": 3470000,
-        "dailyQty": 252
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "액티브비큐텐",
-        "dailyRevenue": 1990000,
-        "dailyQty": 63
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "마그듀오 K2",
-        "dailyRevenue": 1940000,
-        "dailyQty": 102
+        "dailyRevenue": 3200000,
+        "dailyQty": 163
       }
     ]
   },
@@ -57,15 +57,15 @@
   "stock": {
     "ok": true,
     "orderAlarm": 5,
-    "expiryTotal": 14,
+    "expiryTotal": 13,
     "stockoutRisk": 1,
-    "gonguExpiry": 3,
-    "expiry3m": 8,
+    "gonguExpiry": 4,
+    "expiry3m": 6,
     "expiry6m": 0,
     "expiry9m": 5,
     "expiry12m": 5,
-    "expiry14m": 3,
-    "totalAmount": 4270000000,
+    "expiry14m": 4,
+    "totalAmount": 4260000000,
     "skuCount": 83
   }
 }
