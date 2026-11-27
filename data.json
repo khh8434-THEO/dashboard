@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-27T06:24:27.276Z",
+  "updatedAt": "2026-11-27T17:09:37.735Z",
   "daily": {
     "ok": true,
-    "lastUpdate": "2026.11.26 16:18",
-    "period": "11월 1일 ~ 25일",
-    "todayRevenue": 40640000,
-    "monthRevenue": 1090000000,
-    "ytdRevenue": 19190000000,
+    "lastUpdate": "2026.11.27 16:26",
+    "period": "11월 1일 ~ 26일",
+    "todayRevenue": 45290000,
+    "monthRevenue": 1140000000,
+    "ytdRevenue": 19240000000,
     "monthForecast": 1310000000,
     "top5": [
       {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3 밸류팩",
+        "dailyRevenue": 11520000,
+        "dailyQty": 350
+      },
+      {
         "brand": "박약다식",
         "name": "D를 담다 츄어블 2000IU",
-        "dailyRevenue": 5870000,
-        "dailyQty": 436
+        "dailyRevenue": 3160000,
+        "dailyQty": 240
       },
       {
         "brand": "YDY뉴트리션",
         "name": "테라큐민 부스터 100",
-        "dailyRevenue": 4200000,
-        "dailyQty": 121
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "파이토 레드큐민",
-        "dailyRevenue": 3320000,
-        "dailyQty": 87
-      },
-      {
-        "brand": "YDY뉴트리션",
-        "name": "폴라초임계오메가3",
-        "dailyRevenue": 3270000,
-        "dailyQty": 167
+        "dailyRevenue": 2800000,
+        "dailyQty": 95
       },
       {
         "brand": "YDY뉴트리션",
         "name": "테라큐민 프라임 70",
-        "dailyRevenue": 3020000,
-        "dailyQty": 128
+        "dailyRevenue": 2770000,
+        "dailyQty": 132
+      },
+      {
+        "brand": "YDY뉴트리션",
+        "name": "폴라초임계오메가3",
+        "dailyRevenue": 2480000,
+        "dailyQty": 123
       }
     ]
   },
@@ -65,7 +65,7 @@
     "expiry9m": 5,
     "expiry12m": 5,
     "expiry14m": 3,
-    "totalAmount": 4230000000,
+    "totalAmount": 4220000000,
     "skuCount": 83
   }
 }
